@@ -1,0 +1,512 @@
+ZONE,COUNTRY
+Pacific/Auckland,New Zealand
+America/New_York,United States
+Asia/Shanghai,China
+America/Chicago,United States
+America/Sao_Paulo,Brazil
+America/Los_Angeles,United States
+Europe/London,Britain (UK)
+Asia/Riyadh,Saudi Arabia
+America/Mexico_City,Mexico
+Etc/UTC,
+Europe/Paris,France
+Europe/Moscow,Russia
+Asia/Manila,Philippines
+Europe/Madrid,Spain
+America/Bogota,Colombia
+America/Toronto,Canada
+Asia/Dubai,United Arab Emirates
+GMT,
+Australia/Sydney,Australia
+Asia/Bangkok,Thailand
+America/Santiago,Chile
+America/Detroit,United States
+Asia/Jerusalem,Israel
+US/Pacific,
+America/Denver,United States
+Asia/Kuala_Lumpur,Malaysia
+Asia/Jakarta,Indonesia
+Europe/Brussels,Belgium
+Europe/Berlin,Germany
+Asia/Chongqing,China
+Asia/Kuwait,Kuwait
+America/Caracas,Venezuela
+Europe/Amsterdam,Netherlands
+Europe/Rome,Italy
+Australia/Melbourne,Australia
+Australia/Brisbane,Australia
+Europe/Dublin,Ireland
+Europe/Copenhagen,Denmark
+America/Edmonton,Canada
+America/Argentina/Buenos_Aires,Argentina
+America/Montreal,
+America/Phoenix,United States
+Asia/Seoul,Korea (South)
+Asia/Beirut,Lebanon
+Europe/Stockholm,Sweden
+America/Vancouver,Canada
+Asia/Kolkata,India
+Europe/Kiev,Ukraine
+Asia/Tokyo,Japan
+America/Monterrey,Mexico
+Africa/Cairo,Egypt
+Europe/Bucharest,Romania
+Asia/Calcutta,
+Australia/Perth,Australia
+Asia/Singapore,Singapore
+America/Indiana/Indianapolis,United States
+Europe/Istanbul,Turkey
+Europe/Warsaw,Poland
+Asia/Hong_Kong,Hong Kong
+Europe/Oslo,Norway
+Asia/Harbin,China
+US/Eastern,
+America/Costa_Rica,Costa Rica
+US/Central,
+Asia/Taipei,Taiwan
+Africa/Johannesburg,South Africa
+America/Guayaquil,Ecuador
+America/Fortaleza,Brazil
+Asia/Yekaterinburg,Russia
+America/Araguaina,Brazil
+America/Puerto_Rico,Puerto Rico
+Europe/Lisbon,Portugal
+Europe/Athens,Greece
+Europe/Zurich,Switzerland
+Europe/Sofia,Bulgaria
+Asia/Bahrain,Bahrain
+America/Buenos_Aires,
+America/Lima,Peru
+Asia/Amman,Jordan
+America/Tijuana,Mexico
+America/Winnipeg,Canada
+America/Recife,Brazil
+Asia/Qatar,Qatar
+Australia/Adelaide,Australia
+America/Regina,Canada
+America/Belem,Brazil
+America/Santo_Domingo,Dominican Republic
+America/Boise,United States
+Pacific/Honolulu,United States
+America/Manaus,Brazil
+Europe/Helsinki,Finland
+Europe/Prague,Czech Republic
+Africa/Casablanca,Morocco
+Europe/Vienna,Austria
+Asia/Baghdad,Iraq
+America/Mazatlan,Mexico
+Asia/Tehran,Iran
+America/Dawson,Canada
+America/Bahia,Brazil
+Asia/Karachi,Pakistan
+America/Chihuahua,Mexico
+America/Halifax,Canada
+America/Guatemala,Guatemala
+Asia/Ho_Chi_Minh,Vietnam
+America/Cancun,Mexico
+Asia/Almaty,Kazakhstan
+America/Campo_Grande,Brazil
+Asia/Makassar,Indonesia
+America/Merida,Mexico
+Asia/Nicosia,Cyprus
+Africa/Ceuta,Spain
+America/Panama,Panama
+America/Hermosillo,Mexico
+America/La_Paz,Bolivia
+Brazil/East,
+Europe/Zagreb,Croatia
+America/Tegucigalpa,Honduras
+Atlantic/Canary,Spain
+Asia/Vladivostok,Russia
+Europe/Budapest,Hungary
+America/Matamoros,Mexico
+America/Atikokan,Canada
+Asia/Muscat,Oman
+Asia/Urumqi,China
+Asia/Novosibirsk,Russia
+America/St_Johns,Canada
+America/Anchorage,United States
+Europe/Belgrade,Serbia
+Europe/Samara,Russia
+Europe/Bratislava,Slovakia
+America/Moncton,Canada
+Asia/Baku,Azerbaijan
+America/El_Salvador,El Salvador
+Asia/Kuching,Malaysia
+Europe/Minsk,Belarus
+America/Maceio,Brazil
+Africa/Tripoli,Libya
+America/Montevideo,Uruguay
+America/Bahia_Banderas,Mexico
+Asia/Saigon,
+America/Anguilla,Anguilla
+Europe/Malta,Malta
+Australia/Hobart,Australia
+Africa/Algiers,Algeria
+America/Argentina/Cordoba,Argentina
+Asia/Krasnoyarsk,Russia
+Europe/Sarajevo,Bosnia & Herzegovina
+America/Tortola,Virgin Islands (UK)
+Asia/Hebron,Palestine
+America/Ojinaga,Mexico
+US/Mountain,
+Asia/Damascus,Syria
+America/Cuiaba,Brazil
+Etc/GMT+4,
+Asia/Phnom_Penh,Cambodia
+Atlantic/Reykjavik,Iceland
+Etc/GMT+3,
+Asia/Brunei,Brunei
+America/Managua,Nicaragua
+Asia/Omsk,Russia
+Asia/Irkutsk,Russia
+Africa/Luanda,Angola
+Atlantic/Bermuda,Bermuda
+America/Asuncion,Paraguay
+America/Indianapolis,
+Europe/Riga,Latvia
+Europe/Luxembourg,Luxembourg
+America/Barbados,Barbados
+Africa/Tunis,Tunisia
+Australia/Darwin,Australia
+Europe/Volgograd,Russia
+Europe/Tallinn,Estonia
+Asia/Yakutsk,Russia
+Asia/Tbilisi,Georgia
+Asia/Dhaka,Bangladesh
+Pacific/Guam,Guam
+Europe/Vilnius,Lithuania
+Pacific/Fiji,Fiji
+Asia/Gaza,Palestine
+Asia/Macau,Macau
+Asia/Colombo,Sri Lanka
+Europe/Ljubljana,Slovenia
+Etc/GMT-10,
+Europe/Kaliningrad,Russia
+Africa/Nairobi,Kenya
+Atlantic/Azores,Portugal
+Pacific/Tongatapu,Tonga
+Africa/Lagos,Nigeria
+America/Port_of_Spain,Trinidad & Tobago
+Indian/Christmas,Christmas Island
+Asia/Yerevan,Armenia
+America/Kentucky/Louisville,United States
+Indian/Reunion,Reunion
+Etc/GMT+5,
+Asia/Aden,Yemen
+America/Dawson_Creek,Canada
+Asia/Tashkent,Uzbekistan
+Asia/Ulaanbaatar,Mongolia
+Asia/Rangoon,Myanmar (Burma)
+Asia/Dili,East Timor
+Africa/Addis_Ababa,Ethiopia
+Etc/GMT-3,
+America/Thunder_Bay,Canada
+America/Guyana,Guyana
+Europe/Simferopol,Russia
+America/Noronha,Brazil
+Pacific/Tahiti,French Polynesia
+Africa/Harare,Zimbabwe
+Pacific/Midway,US minor outlying islands
+America/Porto_Velho,Brazil
+Africa/Khartoum,Sudan
+Asia/Kabul,Afghanistan
+Antarctica/McMurdo,Antarctica
+America/Argentina/Salta,Argentina
+Asia/Novokuznetsk,Russia
+America/Argentina/Mendoza,Argentina
+Pacific/Noumea,New Caledonia
+Africa/Blantyre,Malawi
+Europe/Chisinau,Moldova
+Etc/GMT-2,
+America/Glace_Bay,Canada
+Atlantic/Madeira,Portugal
+Asia/Kashgar,China
+Europe/Tirane,Albania
+America/North_Dakota/Center,United States
+Europe/Skopje,Macedonia
+America/Belize,Belize
+Turkey,
+Asia/Kathmandu,Nepal
+America/Jamaica,Jamaica
+Africa/Brazzaville,Congo (Rep.)
+Europe/Belfast,
+Africa/Abidjan,Cote d'Ivoire
+Asia/Bishkek,Kyrgyzstan
+Asia/Vientiane,Laos
+America/Nassau,Bahamas
+Australia/Canberra,
+America/Aruba,Aruba
+Europe/Jersey,Jersey
+America/Boa_Vista,Brazil
+Asia/Magadan,Russia
+Africa/Windhoek,Namibia
+Pacific/Chatham,New Zealand
+America/Indiana/Vincennes,United States
+NZ,
+Indian/Maldives,Maldives
+Europe/Zaporozhye,Ukraine
+Asia/Katmandu,
+Europe/Isle_of_Man,Isle of Man
+America/Guadeloupe,Guadeloupe
+Asia/Pontianak,Indonesia
+America/Curacao,Curacao
+Europe/Andorra,Andorra
+Antarctica/Vostok,Antarctica
+Africa/Accra,Ghana
+Indian/Mauritius,Mauritius
+America/Cordoba,
+Asia/Dushanbe,Tajikistan
+America/Argentina/Tucuman,Argentina
+Antarctica/Casey,Antarctica
+Africa/Dar_es_Salaam,Tanzania
+Africa/Dakar,Senegal
+America/Martinique,Martinique
+Asia/Kamchatka,Russia
+Pacific/Rarotonga,Cook Islands
+Europe/Guernsey,Guernsey
+Etc/GMT+6,
+America/Argentina/San_Luis,Argentina
+Europe/Podgorica,Montenegro
+Asia/Sakhalin,Russia
+Pacific/Majuro,Marshall Islands
+America/Godthab,Greenland
+Antarctica/Davis,Antarctica
+Pacific/Apia,Samoa (western)
+Asia/Oral,Kazakhstan
+America/Santarem,Brazil
+Africa/Maputo,Mozambique
+America/Rio_Branco,Brazil
+Atlantic/South_Georgia,South Georgia & the South Sandwich Islands
+Atlantic/Cape_Verde,Cape Verde
+America/Paramaribo,Suriname
+America/Cayman,Cayman Islands
+America/St_Thomas,Virgin Islands (US)
+America/Port-au-Prince,Haiti
+Europe/Monaco,Monaco
+Atlantic/Faroe,Faroe Islands
+Pacific/Port_Moresby,Papua New Guinea
+America/Santa_Isabel,Mexico
+America/Menominee,United States
+Mexico/General,
+America/Argentina/Catamarca,Argentina
+America/Yellowknife,Canada
+Asia/Aqtau,Kazakhstan
+America/Cayenne,French Guiana
+America/Goose_Bay,Canada
+Asia/Ashgabat,Turkmenistan
+Africa/Bamako,Mali
+Europe/Gibraltar,Gibraltar
+Asia/Jayapura,Indonesia
+Europe/Uzhgorod,Ukraine
+US/Michigan,
+Etc/GMT,
+America/Argentina/San_Juan,Argentina
+America/Juneau,United States
+Africa/Lusaka,Zambia
+Etc/GMT+7,
+Canada/Eastern,
+Etc/GMT-8,
+America/Swift_Current,Canada
+America/Whitehorse,Canada
+Etc/GMT+8,
+Pacific/Kwajalein,Marshall Islands
+Asia/Qyzylorda,Kazakhstan
+Asia/Choibalsan,Mongolia
+America/Kentucky/Monticello,United States
+America/North_Dakota/New_Salem,United States
+Africa/Gaborone,Botswana
+America/Argentina/Ushuaia,Argentina
+Australia/Queensland,
+Africa/Libreville,Gabon
+Poland,
+Etc/GMT-11,
+Pacific/Efate,Vanuatu
+Africa/Douala,Cameroon
+Pacific/Saipan,Northern Mariana Islands
+America/Blanc-Sablon,Canada
+America/Havana,Cuba
+America/Argentina/Rio_Gallegos,Argentina
+Etc/GMT-1,
+America/Sitka,United States
+Africa/Kampala,Uganda
+Antarctica/DumontDUrville,Antarctica
+America/Creston,Canada
+America/Argentina/Jujuy,Argentina
+Asia/Aqtobe,Kazakhstan
+Asia/Anadyr,Russia
+Indian/Antananarivo,Madagascar
+Pacific/Pago_Pago,Samoa (American)
+America/Indiana/Tell_City,United States
+Etc/GMT+2,
+America/Adak,United States
+Africa/Nouakchott,Mauritania
+Etc/GMT-12,
+Australia/Broken_Hill,Australia
+Indian/Mahe,Seychelles
+America/Resolute,Canada
+America/Antigua,Antigua & Barbuda
+Etc/GMT-13,
+America/Lower_Princes,St Maarten (Dutch part)
+Africa/Mogadishu,Somalia
+Africa/Kinshasa,Congo (Dem. Rep.)
+Eire,
+America/Marigot,St Martin (French part)
+Canada/Mountain,
+America/Indiana/Knox,United States
+Africa/Porto-Novo,Benin
+America/St_Lucia,St Lucia
+America/Grand_Turk,Turks & Caicos Is
+Etc/GMT-4,
+Australia/Lord_Howe,Australia
+Africa/Ouagadougou,Burkina Faso
+Africa/Malabo,Equatorial Guinea
+America/Argentina/La_Rioja,Argentina
+Pacific/Galapagos,Ecuador
+America/St_Barthelemy,St Barthelemy
+W-SU,
+Antarctica/Macquarie,Australia
+America/Indiana/Petersburg,United States
+Australia/Lindeman,Australia
+America/Indiana/Winamac,United States
+Australia/ACT,
+Asia/Macao,
+America/Virgin,
+Europe/Vaduz,Liechtenstein
+America/Miquelon,St Pierre & Miquelon
+Iran,
+Africa/Conakry,Guinea
+Antarctica/Mawson,Antarctica
+America/Grenada,Grenada
+Africa/Djibouti,Djibouti
+Zulu,
+Africa/Monrovia,Liberia
+Etc/GMT+10,
+US/Indiana-Starke,
+Africa/Freetown,Sierra Leone
+Asia/Samarkand,Uzbekistan
+America/North_Dakota/Beulah,United States
+Africa/Banjul,Gambia
+America/Nome,United States
+America/St_Vincent,St Vincent
+Africa/Ndjamena,Chad
+Pacific/Easter,Chile
+Etc/GMT-7,
+Africa/Kigali,Rwanda
+Pacific/Niue,Niue
+America/Indiana/Vevay,United States
+Africa/Lubumbashi,Congo (Dem. Rep.)
+Pacific/Guadalcanal,Solomon Islands
+Asia/Istanbul,
+America/Kralendijk,Caribbean Netherlands
+America/St_Kitts,St Kitts & Nevis
+Africa/Niamey,Niger
+Pacific/Norfolk,Norfolk Island
+America/Scoresbysund,Greenland
+America/Nipigon,Canada
+Africa/El_Aaiun,Western Sahara
+Etc/GMT-9,
+Asia/Thimphu,Bhutan
+Africa/Lome,Togo
+Indian/Mayotte,Mayotte
+America/Metlakatla,United States
+America/Iqaluit,Canada
+Canada/Pacific,
+America/Dominica,Dominica
+Mexico/BajaSur,
+Pacific/Nauru,Nauru
+Europe/Mariehamn,Aaland Islands
+America/Indiana/Marengo,United States
+Etc/GMT-6,
+Atlantic/Jan_Mayen,
+Africa/Juba,South Sudan
+Africa/Bangui,Central African Rep.
+Arctic/Longyearbyen,Svalbard & Jan Mayen
+Africa/Mbabane,Swaziland
+Canada/Saskatchewan,
+America/Rankin_Inlet,Canada
+America/Inuvik,Canada
+US/East-Indiana,
+US/Arizona,
+Canada/Atlantic,
+Atlantic/Stanley,Falkland Islands
+Etc/GMT+1,
+America/Rainy_River,Canada
+Etc/GMT-5,
+America/Cambridge_Bay,Canada
+Europe/San_Marino,San Marino
+Asia/Pyongyang,Korea (North)
+US/Alaska,
+America/Eirunepe,Brazil
+Africa/Bujumbura,Burundi
+Indian/Chagos,British Indian Ocean Territory
+Etc/GMT-14,
+Chile/EasterIsland,
+America/Shiprock,
+Africa/Bissau,Guinea-Bissau
+Pacific/Palau,Palau
+Pacific/Tarawa,Kiribati
+Europe/Vatican,Vatican City
+ROK,
+Pacific/Ponape,
+Pacific/Pohnpei,Micronesia
+Australia/Victoria,
+Atlantic/St_Helena,St Helena
+Israel,
+Etc/GMT+9,
+Etc/GMT+11,
+Brazil/West,
+Asia/Hovd,Mongolia
+America/Montserrat,Montserrat
+Africa/Maseru,Lesotho
+WET,
+Pacific/Wallis,Wallis & Futuna
+Pacific/Chuuk,Micronesia
+Indian/Comoro,Comoros
+Etc/GMT0,
+Chile/Continental,
+Canada/East-Saskatchewan,
+Canada/Central,
+Atlantic/Faeroe,
+America/Mendoza,
+America/Ensenada,
+Africa/Sao_Tome,Sao Tome & Principe
+Pacific/Marquesas,French Polynesia
+MET,
+CET,
+Brazil/DeNoronha,
+America/Thule,Greenland
+America/Danmarkshavn,Greenland
+US/Pacific-New,
+Portugal,
+Pacific/Yap,
+Pacific/Pitcairn,Pitcairn
+Indian/Kerguelen,French Southern & Antarctic Lands
+Iceland,
+EST,
+Canada/Newfoundland,
+Australia/Currie,Australia
+America/Yakutat,United States
+Africa/Asmera,
+Africa/Asmara,Eritrea
+Pacific/Fakaofo,Tokelau
+Japan,
+Etc/Universal,
+Asia/Dacca,
+Antarctica/South_Pole,
+Antarctica/Palmer,Antarctica
+America/Coral_Harbour,
+Pacific/Wake,US minor outlying islands
+Pacific/Kiritimati,Kiribati
+Pacific/Gambier,French Polynesia
+Libya,
+Indian/Cocos,Cocos (Keeling) Islands
+GMT0,
+GMT+0,
+Etc/Zulu,
+Etc/GMT+12,
+Egypt,
+Australia/Yancowinna,
+Antarctica/Syowa,Antarctica
+Antarctica/Rothera,Antarctica
+America/Pangnirtung,Canada

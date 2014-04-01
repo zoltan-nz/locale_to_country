@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = LocaleToCountry::VERSION
   spec.authors       = ["Zoltan"]
   spec.email         = ["zdebre@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = 'Convert timezone locale info to country'
+  spec.description   = ''
   spec.homepage      = ""
   spec.license       = "MIT"
 
