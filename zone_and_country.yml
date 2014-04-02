@@ -1,0 +1,2081 @@
+---
+Europe/Andorra:
+  :country: Andorra
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Dubai:
+  :country: United Arab Emirates
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Kabul:
+  :country: Afghanistan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Antigua:
+  :country: Antigua & Barbuda
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Anguilla:
+  :country: Anguilla
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Tirane:
+  :country: Albania
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Yerevan:
+  :country: Armenia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Luanda:
+  :country: Angola
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/McMurdo:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/Rothera:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/Palmer:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/Mawson:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/Davis:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/Casey:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/Vostok:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/DumontDUrville:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/Syowa:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/Troll:
+  :country: Antarctica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/Buenos_Aires:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/Cordoba:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/Salta:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/Jujuy:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/Tucuman:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/Catamarca:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/La_Rioja:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/San_Juan:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/Mendoza:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/San_Luis:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/Rio_Gallegos:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Argentina/Ushuaia:
+  :country: Argentina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Pago_Pago:
+  :country: Samoa (American)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Vienna:
+  :country: Austria
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Lord_Howe:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Antarctica/Macquarie:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Hobart:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Currie:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Melbourne:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Sydney:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Broken_Hill:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Brisbane:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Lindeman:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Adelaide:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Darwin:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Perth:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Australia/Eucla:
+  :country: Australia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Aruba:
+  :country: Aruba
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Mariehamn:
+  :country: Aaland Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Baku:
+  :country: Azerbaijan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Sarajevo:
+  :country: Bosnia & Herzegovina
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Barbados:
+  :country: Barbados
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Dhaka:
+  :country: Bangladesh
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Brussels:
+  :country: Belgium
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Ouagadougou:
+  :country: Burkina Faso
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Sofia:
+  :country: Bulgaria
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Bahrain:
+  :country: Bahrain
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Bujumbura:
+  :country: Burundi
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Porto-Novo:
+  :country: Benin
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/St_Barthelemy:
+  :country: St Barthelemy
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/Bermuda:
+  :country: Bermuda
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Brunei:
+  :country: Brunei
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/La_Paz:
+  :country: Bolivia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Kralendijk:
+  :country: Caribbean Netherlands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Noronha:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Belem:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Fortaleza:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Recife:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Araguaina:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Maceio:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Bahia:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Sao_Paulo:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Campo_Grande:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Cuiaba:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Santarem:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Porto_Velho:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Boa_Vista:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Manaus:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Eirunepe:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Rio_Branco:
+  :country: Brazil
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Nassau:
+  :country: Bahamas
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Thimphu:
+  :country: Bhutan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Gaborone:
+  :country: Botswana
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Minsk:
+  :country: Belarus
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Belize:
+  :country: Belize
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/St_Johns:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Halifax:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Glace_Bay:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Moncton:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Goose_Bay:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Blanc-Sablon:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Toronto:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Nipigon:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Thunder_Bay:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Iqaluit:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Pangnirtung:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Resolute:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Atikokan:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Rankin_Inlet:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Winnipeg:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Rainy_River:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Regina:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Swift_Current:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Edmonton:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Cambridge_Bay:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Yellowknife:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Inuvik:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Creston:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Dawson_Creek:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Vancouver:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Whitehorse:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Dawson:
+  :country: Canada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Cocos:
+  :country: Cocos (Keeling) Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Kinshasa:
+  :country: Congo (Dem. Rep.)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Lubumbashi:
+  :country: Congo (Dem. Rep.)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Bangui:
+  :country: Central African Rep.
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Brazzaville:
+  :country: Congo (Rep.)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Zurich:
+  :country: Switzerland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Abidjan:
+  :country: Cote d'Ivoire
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Rarotonga:
+  :country: Cook Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Santiago:
+  :country: Chile
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Easter:
+  :country: Chile
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Douala:
+  :country: Cameroon
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Shanghai:
+  :country: China
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Harbin:
+  :country: China
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Chongqing:
+  :country: China
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Urumqi:
+  :country: China
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Kashgar:
+  :country: China
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Bogota:
+  :country: Colombia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Costa_Rica:
+  :country: Costa Rica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Havana:
+  :country: Cuba
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/Cape_Verde:
+  :country: Cape Verde
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Curacao:
+  :country: Curacao
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Christmas:
+  :country: Christmas Island
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Nicosia:
+  :country: Cyprus
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Prague:
+  :country: Czech Republic
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Berlin:
+  :country: Germany
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Busingen:
+  :country: Germany
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Djibouti:
+  :country: Djibouti
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Copenhagen:
+  :country: Denmark
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Dominica:
+  :country: Dominica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Santo_Domingo:
+  :country: Dominican Republic
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Algiers:
+  :country: Algeria
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Guayaquil:
+  :country: Ecuador
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Galapagos:
+  :country: Ecuador
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Tallinn:
+  :country: Estonia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Cairo:
+  :country: Egypt
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/El_Aaiun:
+  :country: Western Sahara
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Asmara:
+  :country: Eritrea
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Madrid:
+  :country: Spain
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Ceuta:
+  :country: Spain
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/Canary:
+  :country: Spain
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Addis_Ababa:
+  :country: Ethiopia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Helsinki:
+  :country: Finland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Fiji:
+  :country: Fiji
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/Stanley:
+  :country: Falkland Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Chuuk:
+  :country: Micronesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Pohnpei:
+  :country: Micronesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Kosrae:
+  :country: Micronesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/Faroe:
+  :country: Faroe Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Paris:
+  :country: France
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Libreville:
+  :country: Gabon
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/London:
+  :country: Britain (UK)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Grenada:
+  :country: Grenada
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Tbilisi:
+  :country: Georgia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Cayenne:
+  :country: French Guiana
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Guernsey:
+  :country: Guernsey
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Accra:
+  :country: Ghana
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Gibraltar:
+  :country: Gibraltar
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Godthab:
+  :country: Greenland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Danmarkshavn:
+  :country: Greenland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Scoresbysund:
+  :country: Greenland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Thule:
+  :country: Greenland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Banjul:
+  :country: Gambia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Conakry:
+  :country: Guinea
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Guadeloupe:
+  :country: Guadeloupe
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Malabo:
+  :country: Equatorial Guinea
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Athens:
+  :country: Greece
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/South_Georgia:
+  :country: South Georgia & the South Sandwich Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Guatemala:
+  :country: Guatemala
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Guam:
+  :country: Guam
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Bissau:
+  :country: Guinea-Bissau
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Guyana:
+  :country: Guyana
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Hong_Kong:
+  :country: Hong Kong
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Tegucigalpa:
+  :country: Honduras
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Zagreb:
+  :country: Croatia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Port-au-Prince:
+  :country: Haiti
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Budapest:
+  :country: Hungary
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Jakarta:
+  :country: Indonesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Pontianak:
+  :country: Indonesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Makassar:
+  :country: Indonesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Jayapura:
+  :country: Indonesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Dublin:
+  :country: Ireland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Jerusalem:
+  :country: Israel
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Isle_of_Man:
+  :country: Isle of Man
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Kolkata:
+  :country: India
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Chagos:
+  :country: British Indian Ocean Territory
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Baghdad:
+  :country: Iraq
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Tehran:
+  :country: Iran
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/Reykjavik:
+  :country: Iceland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Rome:
+  :country: Italy
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Jersey:
+  :country: Jersey
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Jamaica:
+  :country: Jamaica
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Amman:
+  :country: Jordan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Tokyo:
+  :country: Japan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Nairobi:
+  :country: Kenya
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Bishkek:
+  :country: Kyrgyzstan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Phnom_Penh:
+  :country: Cambodia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Tarawa:
+  :country: Kiribati
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Enderbury:
+  :country: Kiribati
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Kiritimati:
+  :country: Kiribati
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Comoro:
+  :country: Comoros
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/St_Kitts:
+  :country: St Kitts & Nevis
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Pyongyang:
+  :country: Korea (North)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Seoul:
+  :country: Korea (South)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Kuwait:
+  :country: Kuwait
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Cayman:
+  :country: Cayman Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Almaty:
+  :country: Kazakhstan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Qyzylorda:
+  :country: Kazakhstan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Aqtobe:
+  :country: Kazakhstan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Aqtau:
+  :country: Kazakhstan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Oral:
+  :country: Kazakhstan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Vientiane:
+  :country: Laos
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Beirut:
+  :country: Lebanon
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/St_Lucia:
+  :country: St Lucia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Vaduz:
+  :country: Liechtenstein
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Colombo:
+  :country: Sri Lanka
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Monrovia:
+  :country: Liberia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Maseru:
+  :country: Lesotho
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Vilnius:
+  :country: Lithuania
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Luxembourg:
+  :country: Luxembourg
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Riga:
+  :country: Latvia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Tripoli:
+  :country: Libya
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Casablanca:
+  :country: Morocco
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Monaco:
+  :country: Monaco
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Chisinau:
+  :country: Moldova
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Podgorica:
+  :country: Montenegro
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Marigot:
+  :country: St Martin (French part)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Antananarivo:
+  :country: Madagascar
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Majuro:
+  :country: Marshall Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Kwajalein:
+  :country: Marshall Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Skopje:
+  :country: Macedonia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Bamako:
+  :country: Mali
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Rangoon:
+  :country: Myanmar (Burma)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Ulaanbaatar:
+  :country: Mongolia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Hovd:
+  :country: Mongolia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Choibalsan:
+  :country: Mongolia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Macau:
+  :country: Macau
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Saipan:
+  :country: Northern Mariana Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Martinique:
+  :country: Martinique
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Nouakchott:
+  :country: Mauritania
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Montserrat:
+  :country: Montserrat
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Malta:
+  :country: Malta
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Mauritius:
+  :country: Mauritius
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Maldives:
+  :country: Maldives
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Blantyre:
+  :country: Malawi
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Mexico_City:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Cancun:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Merida:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Monterrey:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Matamoros:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Mazatlan:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Chihuahua:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Ojinaga:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Hermosillo:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Tijuana:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Santa_Isabel:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Bahia_Banderas:
+  :country: Mexico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Kuala_Lumpur:
+  :country: Malaysia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Kuching:
+  :country: Malaysia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Maputo:
+  :country: Mozambique
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Windhoek:
+  :country: Namibia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Noumea:
+  :country: New Caledonia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Niamey:
+  :country: Niger
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Norfolk:
+  :country: Norfolk Island
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Lagos:
+  :country: Nigeria
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Managua:
+  :country: Nicaragua
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Amsterdam:
+  :country: Netherlands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Oslo:
+  :country: Norway
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Kathmandu:
+  :country: Nepal
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Nauru:
+  :country: Nauru
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Niue:
+  :country: Niue
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Auckland:
+  :country: New Zealand
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Chatham:
+  :country: New Zealand
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Muscat:
+  :country: Oman
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Panama:
+  :country: Panama
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Lima:
+  :country: Peru
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Tahiti:
+  :country: French Polynesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Marquesas:
+  :country: French Polynesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Gambier:
+  :country: French Polynesia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Port_Moresby:
+  :country: Papua New Guinea
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Manila:
+  :country: Philippines
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Karachi:
+  :country: Pakistan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Warsaw:
+  :country: Poland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Miquelon:
+  :country: St Pierre & Miquelon
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Pitcairn:
+  :country: Pitcairn
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Puerto_Rico:
+  :country: Puerto Rico
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Gaza:
+  :country: Palestine
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Hebron:
+  :country: Palestine
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Lisbon:
+  :country: Portugal
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/Madeira:
+  :country: Portugal
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/Azores:
+  :country: Portugal
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Palau:
+  :country: Palau
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Asuncion:
+  :country: Paraguay
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Qatar:
+  :country: Qatar
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Reunion:
+  :country: Reunion
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Bucharest:
+  :country: Romania
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Belgrade:
+  :country: Serbia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Kaliningrad:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Moscow:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Volgograd:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Samara:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Simferopol:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Yekaterinburg:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Omsk:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Novosibirsk:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Novokuznetsk:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Krasnoyarsk:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Irkutsk:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Yakutsk:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Khandyga:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Vladivostok:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Sakhalin:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Ust-Nera:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Magadan:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Kamchatka:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Anadyr:
+  :country: Russia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Kigali:
+  :country: Rwanda
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Riyadh:
+  :country: Saudi Arabia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Guadalcanal:
+  :country: Solomon Islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Mahe:
+  :country: Seychelles
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Khartoum:
+  :country: Sudan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Stockholm:
+  :country: Sweden
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Singapore:
+  :country: Singapore
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Atlantic/St_Helena:
+  :country: St Helena
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Ljubljana:
+  :country: Slovenia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Arctic/Longyearbyen:
+  :country: Svalbard & Jan Mayen
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Bratislava:
+  :country: Slovakia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Freetown:
+  :country: Sierra Leone
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/San_Marino:
+  :country: San Marino
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Dakar:
+  :country: Senegal
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Mogadishu:
+  :country: Somalia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Paramaribo:
+  :country: Suriname
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Juba:
+  :country: South Sudan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Sao_Tome:
+  :country: Sao Tome & Principe
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/El_Salvador:
+  :country: El Salvador
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Lower_Princes:
+  :country: St Maarten (Dutch part)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Damascus:
+  :country: Syria
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Mbabane:
+  :country: Swaziland
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Grand_Turk:
+  :country: Turks & Caicos Is
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Ndjamena:
+  :country: Chad
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Kerguelen:
+  :country: French Southern & Antarctic Lands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Lome:
+  :country: Togo
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Bangkok:
+  :country: Thailand
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Dushanbe:
+  :country: Tajikistan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Fakaofo:
+  :country: Tokelau
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Dili:
+  :country: East Timor
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Ashgabat:
+  :country: Turkmenistan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Tunis:
+  :country: Tunisia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Tongatapu:
+  :country: Tonga
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Istanbul:
+  :country: Turkey
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Port_of_Spain:
+  :country: Trinidad & Tobago
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Funafuti:
+  :country: Tuvalu
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Taipei:
+  :country: Taiwan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Dar_es_Salaam:
+  :country: Tanzania
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Kiev:
+  :country: Ukraine
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Uzhgorod:
+  :country: Ukraine
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Zaporozhye:
+  :country: Ukraine
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Kampala:
+  :country: Uganda
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Johnston:
+  :country: US minor outlying islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Midway:
+  :country: US minor outlying islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Wake:
+  :country: US minor outlying islands
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/New_York:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Detroit:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Kentucky/Louisville:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Kentucky/Monticello:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Indiana/Indianapolis:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Indiana/Vincennes:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Indiana/Winamac:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Indiana/Marengo:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Indiana/Petersburg:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Indiana/Vevay:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Chicago:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Indiana/Tell_City:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Indiana/Knox:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Menominee:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/North_Dakota/Center:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/North_Dakota/New_Salem:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/North_Dakota/Beulah:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Denver:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Boise:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Phoenix:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Los_Angeles:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Anchorage:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Juneau:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Sitka:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Yakutat:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Nome:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Adak:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Metlakatla:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Honolulu:
+  :country: United States
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Montevideo:
+  :country: Uruguay
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Samarkand:
+  :country: Uzbekistan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Tashkent:
+  :country: Uzbekistan
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Europe/Vatican:
+  :country: Vatican City
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/St_Vincent:
+  :country: St Vincent
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Caracas:
+  :country: Venezuela
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/Tortola:
+  :country: Virgin Islands (UK)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+America/St_Thomas:
+  :country: Virgin Islands (US)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Ho_Chi_Minh:
+  :country: Vietnam
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Efate:
+  :country: Vanuatu
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Wallis:
+  :country: Wallis & Futuna
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Pacific/Apia:
+  :country: Samoa (western)
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Asia/Aden:
+  :country: Yemen
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Indian/Mayotte:
+  :country: Mayotte
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Johannesburg:
+  :country: South Africa
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Lusaka:
+  :country: Zambia
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
+Africa/Harare:
+  :country: Zimbabwe
+  :latitude: 1234
+  :longitude: 3456
+  :city: Main city
