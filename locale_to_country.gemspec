@@ -22,4 +22,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake"
   spec.add_development_dependency "tzinfo"
   spec.add_development_dependency "tzinfo-data"
+  spec.add_development_dependency 'geocoder'
 end

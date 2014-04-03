@@ -1,2081 +1,2220 @@
----
-Europe/Andorra:
-  :country: Andorra
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Dubai:
-  :country: United Arab Emirates
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Kabul:
-  :country: Afghanistan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Antigua:
-  :country: Antigua & Barbuda
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Anguilla:
-  :country: Anguilla
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Tirane:
-  :country: Albania
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Yerevan:
-  :country: Armenia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Luanda:
-  :country: Angola
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/McMurdo:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/Rothera:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/Palmer:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/Mawson:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/Davis:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/Casey:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/Vostok:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/DumontDUrville:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/Syowa:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/Troll:
-  :country: Antarctica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/Buenos_Aires:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/Cordoba:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/Salta:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/Jujuy:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/Tucuman:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/Catamarca:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/La_Rioja:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/San_Juan:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/Mendoza:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/San_Luis:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/Rio_Gallegos:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Argentina/Ushuaia:
-  :country: Argentina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Pago_Pago:
-  :country: Samoa (American)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Vienna:
-  :country: Austria
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Lord_Howe:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Antarctica/Macquarie:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Hobart:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Currie:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Melbourne:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Sydney:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Broken_Hill:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Brisbane:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Lindeman:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Adelaide:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Darwin:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Perth:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Australia/Eucla:
-  :country: Australia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Aruba:
-  :country: Aruba
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Mariehamn:
-  :country: Aaland Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Baku:
-  :country: Azerbaijan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Sarajevo:
-  :country: Bosnia & Herzegovina
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Barbados:
-  :country: Barbados
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Dhaka:
-  :country: Bangladesh
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Brussels:
-  :country: Belgium
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Ouagadougou:
-  :country: Burkina Faso
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Sofia:
-  :country: Bulgaria
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Bahrain:
-  :country: Bahrain
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Bujumbura:
-  :country: Burundi
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Porto-Novo:
-  :country: Benin
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/St_Barthelemy:
-  :country: St Barthelemy
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/Bermuda:
-  :country: Bermuda
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Brunei:
-  :country: Brunei
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/La_Paz:
-  :country: Bolivia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Kralendijk:
-  :country: Caribbean Netherlands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Noronha:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Belem:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Fortaleza:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Recife:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Araguaina:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Maceio:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Bahia:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Sao_Paulo:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Campo_Grande:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Cuiaba:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Santarem:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Porto_Velho:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Boa_Vista:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Manaus:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Eirunepe:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Rio_Branco:
-  :country: Brazil
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Nassau:
-  :country: Bahamas
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Thimphu:
-  :country: Bhutan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Gaborone:
-  :country: Botswana
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Minsk:
-  :country: Belarus
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Belize:
-  :country: Belize
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/St_Johns:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Halifax:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Glace_Bay:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Moncton:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Goose_Bay:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Blanc-Sablon:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Toronto:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Nipigon:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Thunder_Bay:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Iqaluit:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Pangnirtung:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Resolute:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Atikokan:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Rankin_Inlet:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Winnipeg:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Rainy_River:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Regina:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Swift_Current:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Edmonton:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Cambridge_Bay:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Yellowknife:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Inuvik:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Creston:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Dawson_Creek:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Vancouver:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Whitehorse:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Dawson:
-  :country: Canada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Cocos:
-  :country: Cocos (Keeling) Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Kinshasa:
-  :country: Congo (Dem. Rep.)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Lubumbashi:
-  :country: Congo (Dem. Rep.)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Bangui:
-  :country: Central African Rep.
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Brazzaville:
-  :country: Congo (Rep.)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Zurich:
-  :country: Switzerland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Abidjan:
-  :country: Cote d'Ivoire
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Rarotonga:
-  :country: Cook Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Santiago:
-  :country: Chile
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Easter:
-  :country: Chile
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Douala:
-  :country: Cameroon
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Shanghai:
-  :country: China
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Harbin:
-  :country: China
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Chongqing:
-  :country: China
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Urumqi:
-  :country: China
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Kashgar:
-  :country: China
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Bogota:
-  :country: Colombia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Costa_Rica:
-  :country: Costa Rica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Havana:
-  :country: Cuba
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/Cape_Verde:
-  :country: Cape Verde
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Curacao:
-  :country: Curacao
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Christmas:
-  :country: Christmas Island
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Nicosia:
-  :country: Cyprus
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Prague:
-  :country: Czech Republic
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Berlin:
-  :country: Germany
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Busingen:
-  :country: Germany
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Djibouti:
-  :country: Djibouti
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Copenhagen:
-  :country: Denmark
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Dominica:
-  :country: Dominica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Santo_Domingo:
-  :country: Dominican Republic
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Algiers:
-  :country: Algeria
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Guayaquil:
-  :country: Ecuador
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Galapagos:
-  :country: Ecuador
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Tallinn:
-  :country: Estonia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Cairo:
-  :country: Egypt
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/El_Aaiun:
-  :country: Western Sahara
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Asmara:
-  :country: Eritrea
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Madrid:
-  :country: Spain
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Ceuta:
-  :country: Spain
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/Canary:
-  :country: Spain
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Addis_Ababa:
-  :country: Ethiopia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Helsinki:
-  :country: Finland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Fiji:
-  :country: Fiji
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/Stanley:
-  :country: Falkland Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Chuuk:
-  :country: Micronesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Pohnpei:
-  :country: Micronesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Kosrae:
-  :country: Micronesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/Faroe:
-  :country: Faroe Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Paris:
-  :country: France
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Libreville:
-  :country: Gabon
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/London:
-  :country: Britain (UK)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Grenada:
-  :country: Grenada
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Tbilisi:
-  :country: Georgia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Cayenne:
-  :country: French Guiana
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Guernsey:
-  :country: Guernsey
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Accra:
-  :country: Ghana
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Gibraltar:
-  :country: Gibraltar
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Godthab:
-  :country: Greenland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Danmarkshavn:
-  :country: Greenland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Scoresbysund:
-  :country: Greenland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Thule:
-  :country: Greenland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Banjul:
-  :country: Gambia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Conakry:
-  :country: Guinea
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Guadeloupe:
-  :country: Guadeloupe
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Malabo:
-  :country: Equatorial Guinea
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Athens:
-  :country: Greece
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/South_Georgia:
-  :country: South Georgia & the South Sandwich Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Guatemala:
-  :country: Guatemala
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Guam:
-  :country: Guam
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Bissau:
-  :country: Guinea-Bissau
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Guyana:
-  :country: Guyana
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Hong_Kong:
-  :country: Hong Kong
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Tegucigalpa:
-  :country: Honduras
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Zagreb:
-  :country: Croatia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Port-au-Prince:
-  :country: Haiti
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Budapest:
-  :country: Hungary
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Jakarta:
-  :country: Indonesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Pontianak:
-  :country: Indonesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Makassar:
-  :country: Indonesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Jayapura:
-  :country: Indonesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Dublin:
-  :country: Ireland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Jerusalem:
-  :country: Israel
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Isle_of_Man:
-  :country: Isle of Man
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Kolkata:
-  :country: India
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Chagos:
-  :country: British Indian Ocean Territory
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Baghdad:
-  :country: Iraq
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Tehran:
-  :country: Iran
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/Reykjavik:
-  :country: Iceland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Rome:
-  :country: Italy
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Jersey:
-  :country: Jersey
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Jamaica:
-  :country: Jamaica
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Amman:
-  :country: Jordan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Tokyo:
-  :country: Japan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Nairobi:
-  :country: Kenya
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Bishkek:
-  :country: Kyrgyzstan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Phnom_Penh:
-  :country: Cambodia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Tarawa:
-  :country: Kiribati
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Enderbury:
-  :country: Kiribati
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Kiritimati:
-  :country: Kiribati
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Comoro:
-  :country: Comoros
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/St_Kitts:
-  :country: St Kitts & Nevis
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Pyongyang:
-  :country: Korea (North)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Seoul:
-  :country: Korea (South)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Kuwait:
-  :country: Kuwait
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Cayman:
-  :country: Cayman Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Almaty:
-  :country: Kazakhstan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Qyzylorda:
-  :country: Kazakhstan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Aqtobe:
-  :country: Kazakhstan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Aqtau:
-  :country: Kazakhstan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Oral:
-  :country: Kazakhstan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Vientiane:
-  :country: Laos
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Beirut:
-  :country: Lebanon
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/St_Lucia:
-  :country: St Lucia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Vaduz:
-  :country: Liechtenstein
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Colombo:
-  :country: Sri Lanka
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Monrovia:
-  :country: Liberia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Maseru:
-  :country: Lesotho
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Vilnius:
-  :country: Lithuania
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Luxembourg:
-  :country: Luxembourg
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Riga:
-  :country: Latvia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Tripoli:
-  :country: Libya
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Casablanca:
-  :country: Morocco
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Monaco:
-  :country: Monaco
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Chisinau:
-  :country: Moldova
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Podgorica:
-  :country: Montenegro
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Marigot:
-  :country: St Martin (French part)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Antananarivo:
-  :country: Madagascar
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Majuro:
-  :country: Marshall Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Kwajalein:
-  :country: Marshall Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Skopje:
-  :country: Macedonia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Bamako:
-  :country: Mali
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Rangoon:
-  :country: Myanmar (Burma)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Ulaanbaatar:
-  :country: Mongolia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Hovd:
-  :country: Mongolia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Choibalsan:
-  :country: Mongolia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Macau:
-  :country: Macau
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Saipan:
-  :country: Northern Mariana Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Martinique:
-  :country: Martinique
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Nouakchott:
-  :country: Mauritania
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Montserrat:
-  :country: Montserrat
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Malta:
-  :country: Malta
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Mauritius:
-  :country: Mauritius
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Maldives:
-  :country: Maldives
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Blantyre:
-  :country: Malawi
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Mexico_City:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Cancun:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Merida:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Monterrey:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Matamoros:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Mazatlan:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Chihuahua:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Ojinaga:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Hermosillo:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Tijuana:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Santa_Isabel:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Bahia_Banderas:
-  :country: Mexico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Kuala_Lumpur:
-  :country: Malaysia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Kuching:
-  :country: Malaysia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Maputo:
-  :country: Mozambique
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Windhoek:
-  :country: Namibia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Noumea:
-  :country: New Caledonia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Niamey:
-  :country: Niger
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Norfolk:
-  :country: Norfolk Island
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Lagos:
-  :country: Nigeria
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Managua:
-  :country: Nicaragua
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Amsterdam:
-  :country: Netherlands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Oslo:
-  :country: Norway
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Kathmandu:
-  :country: Nepal
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Nauru:
-  :country: Nauru
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Niue:
-  :country: Niue
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
 Pacific/Auckland:
   :country: New Zealand
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Chatham:
-  :country: New Zealand
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Muscat:
-  :country: Oman
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Panama:
-  :country: Panama
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Lima:
-  :country: Peru
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Tahiti:
-  :country: French Polynesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Marquesas:
-  :country: French Polynesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Gambier:
-  :country: French Polynesia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Port_Moresby:
-  :country: Papua New Guinea
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Manila:
-  :country: Philippines
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Karachi:
-  :country: Pakistan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Warsaw:
-  :country: Poland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Miquelon:
-  :country: St Pierre & Miquelon
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Pitcairn:
-  :country: Pitcairn
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Puerto_Rico:
-  :country: Puerto Rico
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Gaza:
-  :country: Palestine
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Hebron:
-  :country: Palestine
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Lisbon:
-  :country: Portugal
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/Madeira:
-  :country: Portugal
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/Azores:
-  :country: Portugal
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Palau:
-  :country: Palau
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Asuncion:
-  :country: Paraguay
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Qatar:
-  :country: Qatar
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Reunion:
-  :country: Reunion
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Bucharest:
-  :country: Romania
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Belgrade:
-  :country: Serbia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Kaliningrad:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Moscow:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Volgograd:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Samara:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Simferopol:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Yekaterinburg:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Omsk:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Novosibirsk:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Novokuznetsk:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Krasnoyarsk:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Irkutsk:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Yakutsk:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Khandyga:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Vladivostok:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Sakhalin:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Ust-Nera:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Magadan:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Kamchatka:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Anadyr:
-  :country: Russia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Kigali:
-  :country: Rwanda
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Riyadh:
-  :country: Saudi Arabia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Guadalcanal:
-  :country: Solomon Islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Mahe:
-  :country: Seychelles
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Khartoum:
-  :country: Sudan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Stockholm:
-  :country: Sweden
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Singapore:
-  :country: Singapore
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Atlantic/St_Helena:
-  :country: St Helena
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Ljubljana:
-  :country: Slovenia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Arctic/Longyearbyen:
-  :country: Svalbard & Jan Mayen
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Bratislava:
-  :country: Slovakia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Freetown:
-  :country: Sierra Leone
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/San_Marino:
-  :country: San Marino
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Dakar:
-  :country: Senegal
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Mogadishu:
-  :country: Somalia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Paramaribo:
-  :country: Suriname
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Juba:
-  :country: South Sudan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Sao_Tome:
-  :country: Sao Tome & Principe
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/El_Salvador:
-  :country: El Salvador
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Lower_Princes:
-  :country: St Maarten (Dutch part)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Damascus:
-  :country: Syria
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Mbabane:
-  :country: Swaziland
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Grand_Turk:
-  :country: Turks & Caicos Is
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Ndjamena:
-  :country: Chad
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Kerguelen:
-  :country: French Southern & Antarctic Lands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Lome:
-  :country: Togo
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Bangkok:
-  :country: Thailand
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Dushanbe:
-  :country: Tajikistan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Fakaofo:
-  :country: Tokelau
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Dili:
-  :country: East Timor
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Ashgabat:
-  :country: Turkmenistan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Tunis:
-  :country: Tunisia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Tongatapu:
-  :country: Tonga
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Istanbul:
-  :country: Turkey
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Port_of_Spain:
-  :country: Trinidad & Tobago
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Funafuti:
-  :country: Tuvalu
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Taipei:
-  :country: Taiwan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Dar_es_Salaam:
-  :country: Tanzania
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Kiev:
-  :country: Ukraine
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Uzhgorod:
-  :country: Ukraine
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Zaporozhye:
-  :country: Ukraine
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Kampala:
-  :country: Uganda
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Johnston:
-  :country: US minor outlying islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Midway:
-  :country: US minor outlying islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Wake:
-  :country: US minor outlying islands
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
+  :city: Auckland
+  :longitude: 174.7633315
+  :latitude: -36.8484597
 America/New_York:
   :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Detroit:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Kentucky/Louisville:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Kentucky/Monticello:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Indiana/Indianapolis:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Indiana/Vincennes:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Indiana/Winamac:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Indiana/Marengo:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Indiana/Petersburg:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Indiana/Vevay:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
+  :city: New_York
+  :longitude: -74.00597309999999
+  :latitude: 40.7143528
+Asia/Shanghai:
+  :country: China
+  :city: Shanghai
+  :longitude: 121.473701
+  :latitude: 31.230416
 America/Chicago:
   :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Indiana/Tell_City:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Indiana/Knox:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Menominee:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/North_Dakota/Center:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/North_Dakota/New_Salem:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/North_Dakota/Beulah:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Denver:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Boise:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Phoenix:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
+  :city: Chicago
+  :longitude: -87.6297982
+  :latitude: 41.8781136
+America/Sao_Paulo:
+  :country: Brazil
+  :city: Sao_Paulo
+  :longitude: -46.63330939999999
+  :latitude: -23.5505199
 America/Los_Angeles:
   :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Anchorage:
+  :city: Los_Angeles
+  :longitude: -118.2436849
+  :latitude: 34.0522342
+Europe/London:
+  :country: United Kingdom
+  :city: London
+  :longitude: -0.1254872
+  :latitude: 51.508515
+Asia/Riyadh:
+  :country: Saudi Arabia
+  :city: Riyadh
+  :longitude: 46.7241667
+  :latitude: 24.7116667
+America/Mexico_City:
+  :country: Mexico
+  :city: Mexico_City
+  :longitude: -99.133208
+  :latitude: 19.4326077
+Europe/Paris:
+  :country: France
+  :city: Paris
+  :longitude: 2.3522219
+  :latitude: 48.856614
+Europe/Moscow:
+  :country: Russia
+  :city: Moscow
+  :longitude: 37.6173
+  :latitude: 55.755826
+Asia/Manila:
+  :country: Philippines
+  :city: Manila
+  :longitude: 120.9842195
+  :latitude: 14.5995124
+Europe/Madrid:
+  :country: Spain
+  :city: Madrid
+  :longitude: -3.7037902
+  :latitude: 40.4167754
+America/Bogota:
+  :country: Colombia
+  :city: Bogota
+  :longitude: -74.0758333
+  :latitude: 4.598055599999999
+America/Toronto:
+  :country: Canada
+  :city: Toronto
+  :longitude: -79.3831843
+  :latitude: 43.653226
+Asia/Dubai:
+  :country: United Arab Emirates
+  :city: Dubai
+  :longitude: 55.307485
+  :latitude: 25.271139
+Australia/Sydney:
+  :country: Australia
+  :city: Sydney
+  :longitude: 151.2069902
+  :latitude: -33.8674869
+Asia/Bangkok:
+  :country: Thailand
+  :city: Bangkok
+  :longitude: 100.5241235
+  :latitude: 13.7278956
+America/Santiago:
+  :country: Chile
+  :city: Santiago
+  :longitude: -70.641997
+  :latitude: -33.4691199
+America/Detroit:
   :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Juneau:
+  :city: Detroit
+  :longitude: -83.0457538
+  :latitude: 42.331427
+Asia/Jerusalem:
+  :country: Israel
+  :city: Jerusalem
+  :longitude: 35.21371
+  :latitude: 31.768319
+America/Denver:
   :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Sitka:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Yakutat:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Nome:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Adak:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Metlakatla:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Honolulu:
-  :country: United States
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Montevideo:
-  :country: Uruguay
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Samarkand:
-  :country: Uzbekistan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Tashkent:
-  :country: Uzbekistan
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Europe/Vatican:
-  :country: Vatican City
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/St_Vincent:
-  :country: St Vincent
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
+  :city: Denver
+  :longitude: -104.9847179
+  :latitude: 39.737567
+Asia/Kuala_Lumpur:
+  :country: Malaysia
+  :city: Kuala_Lumpur
+  :longitude: 101.686855
+  :latitude: 3.139003
+Asia/Jakarta:
+  :country: Indonesia
+  :city: Jakarta
+  :longitude: 106.845599
+  :latitude: -6.2087634
+Europe/Brussels:
+  :country: Belgium
+  :city: Brussels
+  :longitude: 4.3517103
+  :latitude: 50.8503396
+Europe/Berlin:
+  :country: Germany
+  :city: Berlin
+  :longitude: 13.404954
+  :latitude: 52.52000659999999
+Asia/Chongqing:
+  :country: China
+  :city: Chongqing
+  :longitude: 106.551557
+  :latitude: 29.56301
+Asia/Kuwait:
+  :country: Kuwait
+  :city: Kuwait
+  :longitude: 47.481766
+  :latitude: 29.31166
 America/Caracas:
   :country: Venezuela
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/Tortola:
-  :country: Virgin Islands (UK)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-America/St_Thomas:
-  :country: Virgin Islands (US)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Ho_Chi_Minh:
-  :country: Vietnam
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Efate:
-  :country: Vanuatu
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Wallis:
-  :country: Wallis & Futuna
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Pacific/Apia:
-  :country: Samoa (western)
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Asia/Aden:
-  :country: Yemen
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Indian/Mayotte:
-  :country: Mayotte
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
+  :city: Caracas
+  :longitude: -66.902061
+  :latitude: 10.491016
+Europe/Amsterdam:
+  :country: The Netherlands
+  :city: Amsterdam
+  :longitude: 4.895167900000001
+  :latitude: 52.3702157
+Europe/Rome:
+  :country: Italy
+  :city: Rome
+  :longitude: 12.4825199
+  :latitude: 41.8929163
+Australia/Melbourne:
+  :country: Australia
+  :city: Melbourne
+  :longitude: 144.96328
+  :latitude: -37.814107
+Australia/Brisbane:
+  :country: Australia
+  :city: Brisbane
+  :longitude: 153.0234489
+  :latitude: -27.4710107
+Europe/Dublin:
+  :country: Ireland
+  :city: Dublin
+  :longitude: -6.2603097
+  :latitude: 53.3498053
+Europe/Copenhagen:
+  :country: Denmark
+  :city: Copenhagen
+  :longitude: 12.5683371
+  :latitude: 55.6760968
+America/Edmonton:
+  :country: Canada
+  :city: Edmonton
+  :longitude: -113.4909267
+  :latitude: 53.544389
+America/Argentina/Buenos_Aires:
+  :country: Argentina
+  :city: Buenos_Aires
+  :longitude: -58.3815931
+  :latitude: -34.6037232
+America/Montreal:
+  :country: Canada
+  :city: Montreal
+  :longitude: -73.55399249999999
+  :latitude: 45.5086699
+America/Phoenix:
+  :country: United States
+  :city: Phoenix
+  :longitude: -112.0740373
+  :latitude: 33.4483771
+Asia/Seoul:
+  :country: South Korea
+  :city: Seoul
+  :longitude: 126.9779692
+  :latitude: 37.566535
+Asia/Beirut:
+  :country: Lebanon
+  :city: Beirut
+  :longitude: 35.4954794
+  :latitude: 33.8886289
+Europe/Stockholm:
+  :country: Sweden
+  :city: Stockholm
+  :longitude: 18.06491
+  :latitude: 59.32893000000001
+America/Vancouver:
+  :country: Canada
+  :city: Vancouver
+  :longitude: -123.1139268
+  :latitude: 49.261226
+Asia/Kolkata:
+  :country: India
+  :city: Kolkata
+  :longitude: 88.36389500000001
+  :latitude: 22.572646
+Europe/Kiev:
+  :country: Ukraine
+  :city: Kiev
+  :longitude: 30.5234
+  :latitude: 50.4501
+Asia/Tokyo:
+  :country: Japan
+  :city: Tokyo
+  :longitude: 139.6917064
+  :latitude: 35.6894875
+America/Monterrey:
+  :country: Mexico
+  :city: Monterrey
+  :longitude: -100.309201
+  :latitude: 25.6732109
+Africa/Cairo:
+  :country: Egypt
+  :city: Cairo
+  :longitude: 31.2357116
+  :latitude: 30.0444196
+Europe/Bucharest:
+  :country: Romania
+  :city: Bucharest
+  :longitude: 26.1038889
+  :latitude: 44.4325
+Asia/Calcutta:
+  :country: India
+  :city: Calcutta
+  :longitude: 88.36389500000001
+  :latitude: 22.572646
+Australia/Perth:
+  :country: Australia
+  :city: Perth
+  :longitude: 115.8574693
+  :latitude: -31.9530044
+Asia/Singapore:
+  :country: Singapore
+  :city: Singapore
+  :longitude: 103.819836
+  :latitude: 1.352083
+America/Indiana/Indianapolis:
+  :country: United States
+  :city: Indianapolis
+  :longitude: -86.158068
+  :latitude: 39.768403
+Europe/Istanbul:
+  :country: Turkey
+  :city: Istanbul
+  :longitude: 28.97696
+  :latitude: 41.00527
+Europe/Warsaw:
+  :country: Poland
+  :city: Warsaw
+  :longitude: 21.0122287
+  :latitude: 52.2296756
+Asia/Hong_Kong:
+  :country: Hong Kong
+  :city: Hong_Kong
+  :longitude: 114.109497
+  :latitude: 22.396428
+Europe/Oslo:
+  :country: Norway
+  :city: Oslo
+  :longitude: 10.7522454
+  :latitude: 59.9138688
+Asia/Harbin:
+  :country: China
+  :city: Harbin
+  :longitude: 126.53626
+  :latitude: 45.80227
+America/Costa_Rica:
+  :country: Costa Rica
+  :city: Costa_Rica
+  :longitude: -83.753428
+  :latitude: 9.748916999999999
+Asia/Taipei:
+  :country: Taiwan
+  :city: Taipei
+  :longitude: 121.5598345
+  :latitude: 25.091075
 Africa/Johannesburg:
   :country: South Africa
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
-Africa/Lusaka:
-  :country: Zambia
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
+  :city: Johannesburg
+  :longitude: 28.0473051
+  :latitude: -26.2041028
+America/Guayaquil:
+  :country: Ecuador
+  :city: Guayaquil
+  :longitude: -79.9223366
+  :latitude: -2.1709998
+America/Fortaleza:
+  :country: Brazil
+  :city: Fortaleza
+  :longitude: -38.5266704
+  :latitude: -3.7318616
+Asia/Yekaterinburg:
+  :country: Russia
+  :city: Yekaterinburg
+  :longitude: 60.59999999999999
+  :latitude: 56.8333333
+America/Araguaina:
+  :country: Brazil
+  :city: Araguaina
+  :longitude: -48.20482699999999
+  :latitude: -7.192773300000001
+America/Puerto_Rico:
+  :country: Puerto Rico
+  :city: Puerto_Rico
+  :longitude: -66.590149
+  :latitude: 18.220833
+Europe/Lisbon:
+  :country: Portugal
+  :city: Lisbon
+  :longitude: -9.1393366
+  :latitude: 38.7222524
+Europe/Athens:
+  :country: Greece
+  :city: Athens
+  :longitude: 23.7293097
+  :latitude: 37.9837155
+Europe/Zurich:
+  :country: Switzerland
+  :city: Zurich
+  :longitude: 8.539182499999999
+  :latitude: 47.3686498
+Europe/Sofia:
+  :country: Bulgaria
+  :city: Sofia
+  :longitude: 23.3216697
+  :latitude: 42.6978388
+Asia/Bahrain:
+  :country: Bahrain
+  :city: Bahrain
+  :longitude: 50.5577
+  :latitude: 26.0667
+America/Buenos_Aires:
+  :country: Argentina
+  :city: Buenos_Aires
+  :longitude: -58.3815931
+  :latitude: -34.6037232
+America/Lima:
+  :country: Peru
+  :city: Lima
+  :longitude: -77.0427934
+  :latitude: -12.046374
+Asia/Amman:
+  :country: Jordan
+  :city: Amman
+  :longitude: 35.9456951
+  :latitude: 31.9565783
+America/Tijuana:
+  :country: Mexico
+  :city: Tijuana
+  :longitude: -117.0382471
+  :latitude: 32.5149469
+America/Winnipeg:
+  :country: Canada
+  :city: Winnipeg
+  :longitude: -97.1374937
+  :latitude: 49.8997541
+America/Recife:
+  :country: Brazil
+  :city: Recife
+  :longitude: -34.8773793
+  :latitude: -8.0470739
+Asia/Qatar:
+  :country: Qatar
+  :city: Qatar
+  :longitude: 51.183884
+  :latitude: 25.354826
+Australia/Adelaide:
+  :country: Australia
+  :city: Adelaide
+  :longitude: 138.5999594
+  :latitude: -34.92862119999999
+America/Regina:
+  :country: Canada
+  :city: Regina
+  :longitude: -104.6066667
+  :latitude: 50.4547222
+America/Belem:
+  :country: Brazil
+  :city: Belem
+  :longitude: -48.4901799
+  :latitude: -1.4557549
+America/Santo_Domingo:
+  :country: Dominican Republic
+  :city: Santo_Domingo
+  :longitude: -69.9833333
+  :latitude: 18.5
+America/Boise:
+  :country: United States
+  :city: Boise
+  :longitude: -116.2146068
+  :latitude: 43.6187102
+Pacific/Honolulu:
+  :country: United States
+  :city: Honolulu
+  :longitude: -157.8583333
+  :latitude: 21.3069444
+America/Manaus:
+  :country: Brazil
+  :city: Manaus
+  :longitude: -60.0217314
+  :latitude: -3.1190275
+Europe/Helsinki:
+  :country: Finland
+  :city: Helsinki
+  :longitude: 24.9410248
+  :latitude: 60.17332440000001
+Europe/Prague:
+  :country: Czech Republic
+  :city: Prague
+  :longitude: 14.4378005
+  :latitude: 50.0755381
+Africa/Casablanca:
+  :country: Morocco
+  :city: Casablanca
+  :longitude: -7.5833333
+  :latitude: 33.5333333
+Europe/Vienna:
+  :country: Austria
+  :city: Vienna
+  :longitude: 16.3738189
+  :latitude: 48.2081743
+Asia/Baghdad:
+  :country: Iraq
+  :city: Baghdad
+  :longitude: 44.422
+  :latitude: 33.325
+America/Mazatlan:
+  :country: Mexico
+  :city: Mazatlan
+  :longitude: -106.4152778
+  :latitude: 23.2361111
+Asia/Tehran:
+  :country: Iran
+  :city: Tehran
+  :longitude: 51.422945
+  :latitude: 35.696216
+America/Dawson:
+  :country: United States
+  :city: Dawson
+  :longitude: -84.4465826
+  :latitude: 31.7735001
+America/Bahia:
+  :country: Brazil
+  :city: Bahia
+  :longitude: -41.7007272
+  :latitude: -12.579738
+Asia/Karachi:
+  :country: Pakistan
+  :city: Karachi
+  :longitude: 67.0099388
+  :latitude: 24.8614622
+America/Chihuahua:
+  :country: Mexico
+  :city: Chihuahua
+  :longitude: -106.0691004
+  :latitude: 28.6329957
+America/Halifax:
+  :country: United Kingdom
+  :city: Halifax
+  :longitude: -1.85754
+  :latitude: 53.72702
+America/Guatemala:
+  :country: Guatemala
+  :city: Guatemala
+  :longitude: -90.23075899999999
+  :latitude: 15.783471
+Asia/Ho_Chi_Minh:
+  :country: Vietnam
+  :city: Ho_Chi_Minh
+  :longitude: 106.6296638
+  :latitude: 10.8230989
+America/Cancun:
+  :country: Mexico
+  :city: Cancun
+  :longitude: -86.8515279
+  :latitude: 21.161908
+Asia/Almaty:
+  :country: Kazakhstan
+  :city: Almaty
+  :longitude: 76.912628
+  :latitude: 43.255058
+America/Campo_Grande:
+  :country: Brazil
+  :city: Campo_Grande
+  :longitude: -54.6201211
+  :latitude: -20.4697105
+Asia/Makassar:
+  :country: Indonesia
+  :city: Makassar
+  :longitude: 119.4165284
+  :latitude: -5.1308551
+America/Merida:
+  :country: Mexico
+  :city: Merida
+  :longitude: -89.61578899999999
+  :latitude: 20.979721
+Asia/Nicosia:
+  :country: 
+  :city: Nicosia
+  :longitude: 33.3666667
+  :latitude: 35.1666667
+Africa/Ceuta:
+  :country: Spain
+  :city: Ceuta
+  :longitude: -5.324635600000001
+  :latitude: 35.8883838
+America/Panama:
+  :country: Panama
+  :city: Panama
+  :longitude: -80.782127
+  :latitude: 8.537981
+America/Hermosillo:
+  :country: Mexico
+  :city: Hermosillo
+  :longitude: -110.945721
+  :latitude: 29.091639
+America/La_Paz:
+  :country: Bolivia
+  :city: La_Paz
+  :longitude: -68.146248
+  :latitude: -16.4990099
+Europe/Zagreb:
+  :country: Croatia
+  :city: Zagreb
+  :longitude: 15.9778949
+  :latitude: 45.8130293
+America/Tegucigalpa:
+  :country: Honduras
+  :city: Tegucigalpa
+  :longitude: -87.21666669999999
+  :latitude: 14.0833333
+Atlantic/Canary:
+  :country: United States
+  :city: Canary
+  :longitude: -102.3131106
+  :latitude: 33.4924203
+Asia/Vladivostok:
+  :country: Russia
+  :city: Vladivostok
+  :longitude: 131.9333333
+  :latitude: 43.1666667
+Europe/Budapest:
+  :country: Hungary
+  :city: Budapest
+  :longitude: 19.040235
+  :latitude: 47.497912
+America/Matamoros:
+  :country: Mexico
+  :city: Matamoros
+  :longitude: -97.50273759999999
+  :latitude: 25.8690294
+America/Atikokan:
+  :country: Canada
+  :city: Atikokan
+  :longitude: -91.625521
+  :latitude: 48.757169
+Asia/Muscat:
+  :country: Oman
+  :city: Muscat
+  :longitude: 58.54
+  :latitude: 23.61
+Asia/Urumqi:
+  :country: China
+  :city: Urumqi
+  :longitude: 87.61684799999999
+  :latitude: 43.825592
+Asia/Novosibirsk:
+  :country: Russia
+  :city: Novosibirsk
+  :longitude: 82.9333333
+  :latitude: 55.01666669999999
+America/St_Johns:
+  :country: Canada
+  :city: St_Johns
+  :longitude: -52.71283150000001
+  :latitude: 47.5605413
+America/Anchorage:
+  :country: United States
+  :city: Anchorage
+  :longitude: -149.9002778
+  :latitude: 61.2180556
+Europe/Belgrade:
+  :country: Serbia
+  :city: Belgrade
+  :longitude: 20.4622222
+  :latitude: 44.8205556
+Europe/Samara:
+  :country: Russia
+  :city: Samara
+  :longitude: 50.16666670000001
+  :latitude: 53.2333333
+Europe/Bratislava:
+  :country: Slovakia
+  :city: Bratislava
+  :longitude: 17.1071373
+  :latitude: 48.1458923
+America/Moncton:
+  :country: Canada
+  :city: Moncton
+  :longitude: -64.7782313
+  :latitude: 46.0878165
+Asia/Baku:
+  :country: Azerbaijan
+  :city: Baku
+  :longitude: 49.8676232
+  :latitude: 40.4349504
+America/El_Salvador:
+  :country: El Salvador
+  :city: El_Salvador
+  :longitude: -88.89653
+  :latitude: 13.794185
+Asia/Kuching:
+  :country: Malaysia
+  :city: Kuching
+  :longitude: 110.3442199
+  :latitude: 1.530976
+Europe/Minsk:
+  :country: Belarus
+  :city: Minsk
+  :longitude: 27.5666667
+  :latitude: 53.9
+America/Maceio:
+  :country: Brazil
+  :city: Maceio
+  :longitude: -35.7089492
+  :latitude: -9.6498487
+Africa/Tripoli:
+  :country: Libya
+  :city: Tripoli
+  :longitude: 13.187507
+  :latitude: 32.876174
+America/Montevideo:
+  :country: Uruguay
+  :city: Montevideo
+  :longitude: -56.1819444
+  :latitude: -34.8836111
+America/Bahia_Banderas:
+  :country: Mexico
+  :city: Bahia_Banderas
+  :longitude: -110.2958565
+  :latitude: 24.18039
+Asia/Saigon:
+  :country: Vietnam
+  :city: Saigon
+  :longitude: 106.6296638
+  :latitude: 10.8230989
+America/Anguilla:
+  :country: Anguilla
+  :city: Anguilla
+  :longitude: -63.06861499999999
+  :latitude: 18.220554
+Europe/Malta:
+  :country: Malta
+  :city: Malta
+  :longitude: 14.375416
+  :latitude: 35.937496
+Australia/Hobart:
+  :country: Australia
+  :city: Hobart
+  :longitude: 147.3238148
+  :latitude: -42.8819032
+Africa/Algiers:
+  :country: Algeria
+  :city: Algiers
+  :longitude: 3.042048
+  :latitude: 36.752887
+America/Argentina/Cordoba:
+  :country: Argentina
+  :city: Cordoba
+  :longitude: -64.0621309
+  :latitude: -31.3062938
+Asia/Krasnoyarsk:
+  :country: Russia
+  :city: Krasnoyarsk
+  :longitude: 92.92236109999999
+  :latitude: 56.0127463
+Europe/Sarajevo:
+  :country: Bosnia and Herzegovina
+  :city: Sarajevo
+  :longitude: 18.4130763
+  :latitude: 43.8562586
+America/Tortola:
+  :country: British Virgin Islands
+  :city: Tortola
+  :longitude: -64.63327819999999
+  :latitude: 18.4334704
+Asia/Hebron:
+  :country: 
+  :city: Hebron
+  :longitude: 35.09982600000001
+  :latitude: 31.532569
+America/Ojinaga:
+  :country: Mexico
+  :city: Ojinaga
+  :longitude: -104.4163889
+  :latitude: 29.5644444
+US/Mountain:
+  :country: Canada
+  :city: Mountain
+  :longitude: -93.29624799999999
+  :latitude: 50.1700599
+Asia/Damascus:
+  :country: Syria
+  :city: Damascus
+  :longitude: 36.3064
+  :latitude: 33.5111
+America/Cuiaba:
+  :country: Brazil
+  :city: Cuiaba
+  :longitude: -56.0978917
+  :latitude: -15.6014109
+Asia/Phnom_Penh:
+  :country: Cambodia
+  :city: Phnom_Penh
+  :longitude: 104.917445
+  :latitude: 11.558831
+Atlantic/Reykjavik:
+  :country: Iceland
+  :city: Reykjavik
+  :longitude: -21.89521
+  :latitude: 64.13533799999999
+Asia/Brunei:
+  :country: Brunei
+  :city: Brunei
+  :longitude: 114.727669
+  :latitude: 4.535277
+America/Managua:
+  :country: Nicaragua
+  :city: Managua
+  :longitude: -86.25138890000001
+  :latitude: 12.1363889
+Asia/Omsk:
+  :country: Russia
+  :city: Omsk
+  :longitude: 73.38333329999999
+  :latitude: 54.9666667
+Asia/Irkutsk:
+  :country: Russia
+  :city: Irkutsk
+  :longitude: 104.3
+  :latitude: 52.2833333
+Africa/Luanda:
+  :country: Angola
+  :city: Luanda
+  :longitude: 13.2344444
+  :latitude: -8.8383333
+Atlantic/Bermuda:
+  :country: Bermuda
+  :city: Bermuda
+  :longitude: -64.7505
+  :latitude: 32.3078
+America/Asuncion:
+  :country: Paraguay
+  :city: Asuncion
+  :longitude: -57.63509999999999
+  :latitude: -25.2821972
+America/Indianapolis:
+  :country: United States
+  :city: Indianapolis
+  :longitude: -86.158068
+  :latitude: 39.768403
+Europe/Riga:
+  :country: Latvia
+  :city: Riga
+  :longitude: 24.1051864
+  :latitude: 56.9496487
+Europe/Luxembourg:
+  :country: Luxembourg
+  :city: Luxembourg
+  :longitude: 6.129582999999999
+  :latitude: 49.815273
+America/Barbados:
+  :country: Barbados
+  :city: Barbados
+  :longitude: -59.543198
+  :latitude: 13.193887
+Africa/Tunis:
+  :country: Tunisia
+  :city: Tunis
+  :longitude: 10.16596
+  :latitude: 36.81881
+Australia/Darwin:
+  :country: Australia
+  :city: Darwin
+  :longitude: 130.8417772
+  :latitude: -12.4628271
+Europe/Volgograd:
+  :country: Russia
+  :city: Volgograd
+  :longitude: 44.51666669999999
+  :latitude: 48.7
+Europe/Tallinn:
+  :country: Estonia
+  :city: Tallinn
+  :longitude: 24.7535746
+  :latitude: 59.43696079999999
+Asia/Yakutsk:
+  :country: Russia
+  :city: Yakutsk
+  :longitude: 129.7333333
+  :latitude: 62.0333333
+Asia/Tbilisi:
+  :country: Georgia
+  :city: Tbilisi
+  :longitude: 44.792998
+  :latitude: 41.709981
+Asia/Dhaka:
+  :country: Bangladesh
+  :city: Dhaka
+  :longitude: 90.40714299999999
+  :latitude: 23.709921
+Pacific/Guam:
+  :country: Guam
+  :city: Guam
+  :longitude: 144.793731
+  :latitude: 13.444304
+Europe/Vilnius:
+  :country: Lithuania
+  :city: Vilnius
+  :longitude: 25.2796514
+  :latitude: 54.6871555
+Pacific/Fiji:
+  :country: Fiji
+  :city: Fiji
+  :longitude: 178.065032
+  :latitude: -17.713371
+Asia/Gaza:
+  :country: 
+  :city: Gaza
+  :longitude: 34.453593
+  :latitude: 31.522561
+Asia/Macau:
+  :country: Macau
+  :city: Macau
+  :longitude: 113.543873
+  :latitude: 22.198745
+Asia/Colombo:
+  :country: Sri Lanka
+  :city: Colombo
+  :longitude: 79.861243
+  :latitude: 6.9270786
+Europe/Ljubljana:
+  :country: Slovenia
+  :city: Ljubljana
+  :longitude: 14.5080702
+  :latitude: 46.05645089999999
+Europe/Kaliningrad:
+  :country: Russia
+  :city: Kaliningrad
+  :longitude: 20.5166667
+  :latitude: 54.7166667
+Africa/Nairobi:
+  :country: Kenya
+  :city: Nairobi
+  :longitude: 36.8219462
+  :latitude: -1.2920659
+Atlantic/Azores:
+  :country: Portugal
+  :city: Azores
+  :longitude: -25.6755944
+  :latitude: 37.7412488
+Pacific/Tongatapu:
+  :country: Tonga
+  :city: Tongatapu
+  :longitude: -175.2515482
+  :latitude: -21.1465968
+Africa/Lagos:
+  :country: Nigeria
+  :city: Lagos
+  :longitude: 3.417977
+  :latitude: 6.441158
+America/Port_of_Spain:
+  :country: Trinidad and Tobago
+  :city: Port_of_Spain
+  :longitude: -61.51666669999999
+  :latitude: 10.6666667
+Indian/Christmas:
+  :country: United States
+  :city: Christmas
+  :longitude: -81.01756089999999
+  :latitude: 28.5363893
+Asia/Yerevan:
+  :country: Armenia
+  :city: Yerevan
+  :longitude: 44.516667
+  :latitude: 40.183333
+America/Kentucky/Louisville:
+  :country: United States
+  :city: Louisville
+  :longitude: -85.7584557
+  :latitude: 38.2526647
+Indian/Reunion:
+  :country: Reunion
+  :city: Reunion
+  :longitude: 55.536384
+  :latitude: -21.115141
+Asia/Aden:
+  :country: Yemen
+  :city: Aden
+  :longitude: 45.0333333
+  :latitude: 12.8
+America/Dawson_Creek:
+  :country: Canada
+  :city: Dawson_Creek
+  :longitude: -120.2376623
+  :latitude: 55.75962740000001
+Asia/Tashkent:
+  :country: Uzbekistan
+  :city: Tashkent
+  :longitude: 69.21666669999999
+  :latitude: 41.26666669999999
+Asia/Ulaanbaatar:
+  :country: Mongolia
+  :city: Ulaanbaatar
+  :longitude: 106.90554
+  :latitude: 47.921378
+Asia/Rangoon:
+  :country: Republic of the Union of Myanmar
+  :city: Rangoon
+  :longitude: 96.15
+  :latitude: 16.8
+Asia/Dili:
+  :country: Timor-Leste
+  :city: Dili
+  :longitude: 125.578151
+  :latitude: -8.558458
+Africa/Addis_Ababa:
+  :country: Ethiopia
+  :city: Addis_Ababa
+  :longitude: 38.746799
+  :latitude: 9.022736
+America/Thunder_Bay:
+  :country: Canada
+  :city: Thunder_Bay
+  :longitude: -89.2476823
+  :latitude: 48.3808951
+America/Guyana:
+  :country: Guyana
+  :city: Guyana
+  :longitude: -58.93018
+  :latitude: 4.860416
+Europe/Simferopol:
+  :country: Ukraine
+  :city: Simferopol
+  :longitude: 34.102417
+  :latitude: 44.952117
+America/Noronha:
+  :country: Brazil
+  :city: Noronha
+  :longitude: -53.60254519999999
+  :latitude: -28.6530664
+Pacific/Tahiti:
+  :country: French Polynesia
+  :city: Tahiti
+  :longitude: -149.4260421
+  :latitude: -17.6509195
 Africa/Harare:
   :country: Zimbabwe
-  :latitude: 1234
-  :longitude: 3456
-  :city: Main city
+  :city: Harare
+  :longitude: 31.053961
+  :latitude: -17.82922
+Pacific/Midway:
+  :country: United States
+  :city: Midway
+  :longitude: -111.4743545
+  :latitude: 40.5121772
+America/Porto_Velho:
+  :country: Brazil
+  :city: Porto_Velho
+  :longitude: -63.9004303
+  :latitude: -8.761160499999999
+Africa/Khartoum:
+  :country: Sudan
+  :city: Khartoum
+  :longitude: 32.532241
+  :latitude: 15.550101
+Asia/Kabul:
+  :country: Afghanistan
+  :city: Kabul
+  :longitude: 69.1717029
+  :latitude: 34.528455
+Antarctica/McMurdo:
+  :country: Antarctica
+  :city: McMurdo
+  :longitude: 166.6863449
+  :latitude: -77.8418779
+America/Argentina/Salta:
+  :country: Argentina
+  :city: Salta
+  :longitude: -65.4121552
+  :latitude: -24.7829323
+Asia/Novokuznetsk:
+  :country: Russia
+  :city: Novokuznetsk
+  :longitude: 87.11666699999999
+  :latitude: 53.75
+America/Argentina/Mendoza:
+  :country: Argentina
+  :city: Mendoza
+  :longitude: -68.8440498
+  :latitude: -32.890183
+Pacific/Noumea:
+  :country: New Caledonia
+  :city: Noumea
+  :longitude: 166.458
+  :latitude: -22.2758
+Africa/Blantyre:
+  :country: Malawi
+  :city: Blantyre
+  :longitude: 35.0058333
+  :latitude: -15.7861111
+Europe/Chisinau:
+  :country: Moldova
+  :city: Chisinau
+  :longitude: 28.841551
+  :latitude: 47.02685899999999
+America/Glace_Bay:
+  :country: Canada
+  :city: Glace_Bay
+  :longitude: -59.9570044
+  :latitude: 46.1969191
+Atlantic/Madeira:
+  :country: Portugal
+  :city: Madeira
+  :longitude: -16.9594723
+  :latitude: 32.76070740000001
+Asia/Kashgar:
+  :country: China
+  :city: Kashgar
+  :longitude: 75.989755
+  :latitude: 39.4704
+Europe/Tirane:
+  :country: Albania
+  :city: Tirane
+  :longitude: 19.8318
+  :latitude: 41.33165
+America/North_Dakota/Center:
+  :country: United States
+  :city: Fargo
+  :longitude: -96.7898034
+  :latitude: 46.8771863
+Europe/Skopje:
+  :country: Macedonia (FYROM)
+  :city: Skopje
+  :longitude: 21.4279956
+  :latitude: 41.9973462
+America/Belize:
+  :country: Belize
+  :city: Belize
+  :longitude: -88.49765
+  :latitude: 17.189877
+Turkey:
+  :country: Turkey
+  :city: Ankara
+  :longitude: 32.85411
+  :latitude: 39.92077
+Asia/Kathmandu:
+  :country: Nepal
+  :city: Kathmandu
+  :longitude: 85.33333329999999
+  :latitude: 27.7
+America/Jamaica:
+  :country: Jamaica
+  :city: Jamaica
+  :longitude: -77.297508
+  :latitude: 18.109581
+Africa/Brazzaville:
+  :country: Congo
+  :city: Brazzaville
+  :longitude: 15.2833333
+  :latitude: -4.2666667
+Europe/Belfast:
+  :country: United Kingdom
+  :city: Belfast
+  :longitude: -5.93012
+  :latitude: 54.59728500000001
+Africa/Abidjan:
+  :country: Côte d'Ivoire
+  :city: Abidjan
+  :longitude: -4.027750999999999
+  :latitude: 5.336317999999999
+Asia/Bishkek:
+  :country: Kyrgyzstan
+  :city: Bishkek
+  :longitude: 74.58788299999999
+  :latitude: 42.870022
+Asia/Vientiane:
+  :country: Laos
+  :city: Vientiane
+  :longitude: 102.614429
+  :latitude: 17.962769
+America/Nassau:
+  :country: The Bahamas
+  :city: Nassau
+  :longitude: -77.345
+  :latitude: 25.06
+Australia/Canberra:
+  :country: Australia
+  :city: Canberra
+  :longitude: 149.1286843
+  :latitude: -35.2819998
+America/Aruba:
+  :country: Aruba
+  :city: Aruba
+  :longitude: -69.968338
+  :latitude: 12.52111
+Europe/Jersey:
+  :country: Jersey
+  :city: Jersey
+  :longitude: -2.13125
+  :latitude: 49.214439
+America/Boa_Vista:
+  :country: Brazil
+  :city: Boa_Vista
+  :longitude: -60.6758331
+  :latitude: 2.8235098
+Asia/Magadan:
+  :country: Russia
+  :city: Magadan
+  :longitude: 150.8
+  :latitude: 59.55
+Africa/Windhoek:
+  :country: Namibia
+  :city: Windhoek
+  :longitude: 17.082481
+  :latitude: -22.5589039
+Pacific/Chatham:
+  :country: United Kingdom
+  :city: Chatham
+  :longitude: 0.52213
+  :latitude: 51.380952
+America/Indiana/Vincennes:
+  :country: United States
+  :city: Vincennes
+  :longitude: -87.5286325
+  :latitude: 38.677269
+Indian/Maldives:
+  :country: Maldives
+  :city: Maldives
+  :longitude: 73.5361034
+  :latitude: 1.977247
+Europe/Zaporozhye:
+  :country: Ukraine
+  :city: Zaporozhye
+  :longitude: 35.139567
+  :latitude: 47.8388
+Asia/Katmandu:
+  :country: Nepal
+  :city: Katmandu
+  :longitude: 85.33333329999999
+  :latitude: 27.7
+Europe/Isle_of_Man:
+  :country: Isle of Man
+  :city: Isle_of_Man
+  :longitude: -4.548056
+  :latitude: 54.236107
+America/Guadeloupe:
+  :country: Guadeloupe
+  :city: Guadeloupe
+  :longitude: -61.55099999999999
+  :latitude: 16.265
+Asia/Pontianak:
+  :country: Indonesia
+  :city: Pontianak
+  :longitude: 109.330307
+  :latitude: -0.022523
+America/Curacao:
+  :country: Curaçao
+  :city: Curacao
+  :longitude: -68.99002
+  :latitude: 12.16957
+Europe/Andorra:
+  :country: Andorra
+  :city: Andorra
+  :longitude: 1.521801
+  :latitude: 42.506285
+Antarctica/Vostok:
+  :country: Russia
+  :city: Vostok
+  :longitude: 135.5269781
+  :latitude: 48.31732
+Africa/Accra:
+  :country: Ghana
+  :city: Accra
+  :longitude: -0.196306
+  :latitude: 5.5557169
+Indian/Mauritius:
+  :country: Mauritius
+  :city: Mauritius
+  :longitude: 57.55215200000001
+  :latitude: -20.348404
+America/Cordoba:
+  :country: United States
+  :city: Cordoba
+  :longitude: -84.77435539999999
+  :latitude: 45.4403576
+Asia/Dushanbe:
+  :country: Tajikistan
+  :city: Dushanbe
+  :longitude: 68.78
+  :latitude: 38.5366667
+America/Argentina/Tucuman:
+  :country: Argentina
+  :city: Tucuman
+  :longitude: -65.2175903
+  :latitude: -26.8082848
+Antarctica/Casey:
+  :country: Antarctica
+  :city: Casey
+  :longitude: 110.5244444
+  :latitude: -66.2816667
+Africa/Dar_es_Salaam:
+  :country: Tanzania
+  :city: Dar_es_Salaam
+  :longitude: 39.269661
+  :latitude: -6.822921
+Africa/Dakar:
+  :country: Senegal
+  :city: Dakar
+  :longitude: -17.3660286
+  :latitude: 14.7645042
+America/Martinique:
+  :country: Martinique
+  :city: Martinique
+  :longitude: -61.024174
+  :latitude: 14.641528
+Asia/Kamchatka:
+  :country: Russia
+  :city: Kamchatka
+  :longitude: 37.6325914
+  :latitude: 44.7086006
+Pacific/Rarotonga:
+  :country: Cook Islands
+  :city: Rarotonga
+  :longitude: -159.7763491
+  :latitude: -21.2292371
+Europe/Guernsey:
+  :country: Guernsey
+  :city: Guernsey
+  :longitude: -2.585278
+  :latitude: 49.465691
+America/Argentina/San_Luis:
+  :country: Argentina
+  :city: San_Luis
+  :longitude: -66.3367976
+  :latitude: -33.3022202
+Europe/Podgorica:
+  :country: Montenegro
+  :city: Podgorica
+  :longitude: 19.268646
+  :latitude: 42.442575
+Asia/Sakhalin:
+  :country: Russia
+  :city: Sakhalin
+  :longitude: 143
+  :latitude: 51
+Pacific/Majuro:
+  :country: Marshall Islands
+  :city: Majuro
+  :longitude: 171.3825582
+  :latitude: 7.0921515
+America/Godthab:
+  :country: Greenland
+  :city: Godthab
+  :longitude: -51.721407
+  :latitude: 64.18361999999999
+Antarctica/Davis:
+  :country: Antarctica
+  :city: Davis
+  :longitude: 77.96962429999999
+  :latitude: -68.57624659999999
+Pacific/Apia:
+  :country: Samoa
+  :city: Apia
+  :longitude: -171.75
+  :latitude: -13.8333333
+Asia/Oral:
+  :country: Kazakhstan
+  :city: Oral
+  :longitude: 51.3666667
+  :latitude: 51.2333333
+America/Santarem:
+  :country: United States
+  :city: Santarem
+  :longitude: -82.026477
+  :latitude: 27.026981
+Africa/Maputo:
+  :country: Mozambique
+  :city: Maputo
+  :longitude: 32.5833333
+  :latitude: -25.9666667
+America/Rio_Branco:
+  :country: Brazil
+  :city: Rio_Branco
+  :longitude: -67.8248977
+  :latitude: -9.975377
+Atlantic/South_Georgia:
+  :country: United States
+  :city: South_Georgia
+  :longitude: -82.9000751
+  :latitude: 32.1656221
+Atlantic/Cape_Verde:
+  :country: Cape Verde
+  :city: Cape_Verde
+  :longitude: -23.6051721
+  :latitude: 15.120142
+America/Paramaribo:
+  :country: Suriname
+  :city: Paramaribo
+  :longitude: -55.16788
+  :latitude: 5.823201
+America/Cayman:
+  :country: United States
+  :city: Cayman
+  :longitude: -122.231814
+  :latitude: 37.9906004
+America/St_Thomas:
+  :country: U.S. Virgin Islands
+  :city: St_Thomas
+  :longitude: -64.95340089999999
+  :latitude: 18.335361
+America/Port-au-Prince:
+  :country: Haiti
+  :city: Port-au-Prince
+  :longitude: -72.336408
+  :latitude: 18.539269
+Europe/Monaco:
+  :country: Monaco
+  :city: Monaco
+  :longitude: 7.424615799999999
+  :latitude: 43.73841760000001
+Atlantic/Faroe:
+  :country: Faroe Islands
+  :city: Faroe Islands
+  :longitude: -6.911805999999999
+  :latitude: 61.89263500000001
+Pacific/Port_Moresby:
+  :country: Papua New Guinea
+  :city: Port_Moresby
+  :longitude: 147.190242
+  :latitude: -9.481553000000002
+America/Santa_Isabel:
+  :country: Brazil
+  :city: Santa_Isabel
+  :longitude: -46.22411049999999
+  :latitude: -23.3176861
+America/Menominee:
+  :country: United States
+  :city: Menominee
+  :longitude: -87.6142737
+  :latitude: 45.10776269999999
+America/Argentina/Catamarca:
+  :country: Argentina
+  :city: Catamarca
+  :longitude: -65.77897159999999
+  :latitude: -28.4689906
+America/Yellowknife:
+  :country: Canada
+  :city: Yellowknife
+  :longitude: -114.3717886
+  :latitude: 62.4539717
+Asia/Aqtau:
+  :country: Kazakhstan
+  :city: Aqtau
+  :longitude: 51.2875686
+  :latitude: 43.6859416
+America/Cayenne:
+  :country: French Guiana
+  :city: Cayenne
+  :longitude: -52.32689999999999
+  :latitude: 4.9227
+America/Goose_Bay:
+  :country: Canada
+  :city: Goose_Bay
+  :longitude: -60.3260842
+  :latitude: 53.3016826
+Asia/Ashgabat:
+  :country: Turkmenistan
+  :city: Ashgabat
+  :longitude: 58.3666667
+  :latitude: 37.9333333
+Africa/Bamako:
+  :country: Mali
+  :city: Bamako
+  :longitude: -8
+  :latitude: 12.65
+Europe/Gibraltar:
+  :country: Gibraltar
+  :city: Gibraltar
+  :longitude: -5.353585
+  :latitude: 36.140751
+Asia/Jayapura:
+  :country: Indonesia
+  :city: Jayapura
+  :longitude: 140.717
+  :latitude: -2.533
+Europe/Uzhgorod:
+  :country: Ukraine
+  :city: Uzhgorod
+  :longitude: 22.287883
+  :latitude: 48.6208
+US/Michigan:
+  :country: United States
+  :city: Michigan
+  :longitude: -85.60236429999999
+  :latitude: 44.3148443
+America/Argentina/San_Juan:
+  :country: Argentina
+  :city: San_Juan
+  :longitude: -68.5214081
+  :latitude: -31.5272732
+America/Juneau:
+  :country: United States
+  :city: Juneau
+  :longitude: -134.4197222
+  :latitude: 58.3019444
+Africa/Lusaka:
+  :country: Zambia
+  :city: Lusaka
+  :longitude: 28.287167
+  :latitude: -15.408193
+America/Swift_Current:
+  :country: Canada
+  :city: Swift_Current
+  :longitude: -107.7971722
+  :latitude: 50.285069
+America/Whitehorse:
+  :country: Canada
+  :city: Whitehorse
+  :longitude: -135.0568449
+  :latitude: 60.7211871
+Pacific/Kwajalein:
+  :country: Marshall Islands
+  :city: Kwajalein
+  :longitude: 167.4242972
+  :latitude: 9.1898235
+Asia/Qyzylorda:
+  :country: Kazakhstan
+  :city: Qyzylorda
+  :longitude: 65.4822686
+  :latitude: 44.84883139999999
+Asia/Choibalsan:
+  :country: Mongolia
+  :city: Choibalsan
+  :longitude: 114.535
+  :latitude: 48.0783333
+America/Kentucky/Monticello:
+  :country: United States
+  :city: Monticello
+  :longitude: -78.4531994
+  :latitude: 38.0086043
+America/North_Dakota/New_Salem:
+  :country: United States
+  :city: New_Salem
+  :longitude: -72.3320289
+  :latitude: 42.50425509999999
+Africa/Gaborone:
+  :country: Botswana
+  :city: Gaborone
+  :longitude: 25.908739
+  :latitude: -24.65411
+America/Argentina/Ushuaia:
+  :country: Argentina
+  :city: Ushuaia
+  :longitude: -68.3029511
+  :latitude: -54.8019121
+Australia/Queensland:
+  :country: Australia
+  :city: Queensland
+  :longitude: 142.7027956
+  :latitude: -20.9175738
+Africa/Libreville:
+  :country: Gabon
+  :city: Libreville
+  :longitude: 9.453643999999999
+  :latitude: 0.390841
+Pacific/Efate:
+  :country: Vanuatu
+  :city: Efate
+  :longitude: 168.4297187
+  :latitude: -17.6577479
+Africa/Douala:
+  :country: Cameroon
+  :city: Douala
+  :longitude: 9.706374
+  :latitude: 4.047486000000001
+Pacific/Saipan:
+  :country: Northern Mariana Islands
+  :city: Saipan
+  :longitude: 145.750967
+  :latitude: 15.177801
+America/Blanc-Sablon:
+  :country: Canada
+  :city: Blanc-Sablon
+  :longitude: -57.1313148
+  :latitude: 51.4264451
+America/Havana:
+  :country: Cuba
+  :city: Havana
+  :longitude: -82.38855699999999
+  :latitude: 23.1168
+America/Argentina/Rio_Gallegos:
+  :country: Argentina
+  :city: Rio_Gallegos
+  :longitude: -69.2168291
+  :latitude: -51.6230485
+America/Sitka:
+  :country: United States
+  :city: Sitka
+  :longitude: -135.33
+  :latitude: 57.0530556
+Africa/Kampala:
+  :country: Uganda
+  :city: Kampala
+  :longitude: 32.5811111
+  :latitude: 0.3136111
+Antarctica/DumontDUrville:
+  :country: Antarctica
+  :city: Dumont DUrville Station
+  :longitude: 140.0018263
+  :latitude: -66.6630267
+America/Creston:
+  :country: Canada
+  :city: Creston
+  :longitude: -116.5135079
+  :latitude: 49.0955401
+America/Argentina/Jujuy:
+  :country: Argentina
+  :city: Jujuy
+  :longitude: -65.2994767
+  :latitude: -24.1857864
+Asia/Aqtobe:
+  :country: Kazakhstan
+  :city: Aqtobe
+  :longitude: 57.1666667
+  :latitude: 50.2833333
+Asia/Anadyr:
+  :country: Russia
+  :city: Anadyr
+  :longitude: 177.5
+  :latitude: 64.7333333
+Indian/Antananarivo:
+  :country: Madagascar
+  :city: Antananarivo
+  :longitude: 47.531612
+  :latitude: -18.914872
+Pacific/Pago_Pago:
+  :country: American Samoa
+  :city: Pago_Pago
+  :longitude: -170.700897
+  :latitude: -14.27933
+America/Indiana/Tell_City:
+  :country: United States
+  :city: Tell_City
+  :longitude: -86.76776629999999
+  :latitude: 37.9514447
+America/Adak:
+  :country: United States
+  :city: Adak
+  :longitude: -176.6580556
+  :latitude: 51.88
+Africa/Nouakchott:
+  :country: Mauritania
+  :city: Nouakchott
+  :longitude: -15.97842
+  :latitude: 18.0840609
+Australia/Broken_Hill:
+  :country: Australia
+  :city: Broken_Hill
+  :longitude: 141.4651361
+  :latitude: -31.9558583
+Indian/Mahe:
+  :country: Seychelles
+  :city: Mahe
+  :longitude: 55.480396
+  :latitude: -4.6826693
+America/Resolute:
+  :country: Canada
+  :city: Resolute
+  :longitude: -94.829729
+  :latitude: 74.697299
+America/Antigua:
+  :country: Antigua and Barbuda
+  :city: Antigua
+  :longitude: -61.8175207
+  :latitude: 17.0746557
+America/Lower_Princes:
+  :country: France
+  :city: Lower_Princes
+  :longitude: 0.240354
+  :latitude: 48.888013
+Africa/Mogadishu:
+  :country: Somalia
+  :city: Mogadishu
+  :longitude: 45.35
+  :latitude: 2.0333333
+Africa/Kinshasa:
+  :country: Democratic Republic of the Congo
+  :city: Kinshasa
+  :longitude: 15.3138889
+  :latitude: -4.3316667
+America/Marigot:
+  :country: Saint Martin
+  :city: Marigot
+  :longitude: -63.083676
+  :latitude: 18.069605
+Canada/Mountain:
+  :country: Canada
+  :city: Mountain
+  :longitude: -93.29624799999999
+  :latitude: 50.1700599
+America/Indiana/Knox:
+  :country: United States
+  :city: Knox
+  :longitude: -86.6250139
+  :latitude: 41.2958751
+Africa/Porto-Novo:
+  :country: Benin
+  :city: Porto-Novo
+  :longitude: 2.632503
+  :latitude: 6.478352999999999
+America/St_Lucia:
+  :country: Saint Lucia
+  :city: St_Lucia
+  :longitude: -60.978893
+  :latitude: 13.909444
+America/Grand_Turk:
+  :country: Turks and Caicos Islands
+  :city: Grand_Turk
+  :longitude: -71.13891009999999
+  :latitude: 21.4674584
+Australia/Lord_Howe:
+  :country: Australia
+  :city: Lord Howe Island
+  :longitude: 159.0821211
+  :latitude: -31.5553263
+Africa/Ouagadougou:
+  :country: Burkina Faso
+  :city: Ouagadougou
+  :longitude: -1.5338639
+  :latitude: 12.364637
+Africa/Malabo:
+  :country: Equatorial Guinea
+  :city: Malabo
+  :longitude: 8.783333299999999
+  :latitude: 3.75
+America/Argentina/La_Rioja:
+  :country: Argentina
+  :city: La_Rioja
+  :longitude: -66.8559803
+  :latitude: -29.4128001
+Pacific/Galapagos:
+  :country: Ecuador
+  :city: Galapagos
+  :longitude: -90.9820668
+  :latitude: -0.8292784
+America/St_Barthelemy:
+  :country: Saint Barthélemy
+  :city: St_Barthelemy
+  :longitude: -62.833333
+  :latitude: 17.9
+Antarctica/Macquarie:
+  :country: Australia
+  :city: Macquarie
+  :longitude: 158.8556149
+  :latitude: -54.62081149999999
+America/Indiana/Petersburg:
+  :country: United States
+  :city: Washington
+  :longitude: -87.2786244
+  :latitude: 38.4919935
+Australia/Lindeman:
+  :country: Australia
+  :city: Lindeman Island
+  :longitude: 149.0410504
+  :latitude: -20.4447841
+America/Indiana/Winamac:
+  :country: United States
+  :city: Winamac
+  :longitude: -86.6030648
+  :latitude: 41.0514299
+Australia/ACT:
+  :country: Australia
+  :city: Australian Capital Territory
+  :longitude: 149.0123679
+  :latitude: -35.4734679
+Asia/Macao:
+  :country: Macau
+  :city: Macao
+  :longitude: 113.543873
+  :latitude: 22.198745
+America/Virgin:
+  :country: United States
+  :city: Virgin
+  :longitude: -113.1882792
+  :latitude: 37.208316
+Europe/Vaduz:
+  :country: Liechtenstein
+  :city: Vaduz
+  :longitude: 9.5207
+  :latitude: 47.14136999999999
+America/Miquelon:
+  :country: United States
+  :city: Miquelon
+  :longitude: -83.4580433
+  :latitude: 42.5151438
+Africa/Conakry:
+  :country: Guinea
+  :city: Conakry
+  :longitude: -13.67847
+  :latitude: 9.537029
+Antarctica/Mawson:
+  :country: Antarctica
+  :city: Mawson Sea
+  :longitude: 105.0
+  :latitude: -65.0
+America/Grenada:
+  :country: Grenada
+  :city: Grenada
+  :longitude: -61.67899999999999
+  :latitude: 12.1165
+Africa/Djibouti:
+  :country: Djibouti
+  :city: Djibouti
+  :longitude: 42.590275
+  :latitude: 11.825138
+Africa/Monrovia:
+  :country: Liberia
+  :city: Monrovia
+  :longitude: -10.79716
+  :latitude: 6.300774
+US/Indiana-Starke:
+  :country: United States
+  :city: Indiana-Starke
+  :longitude: -86.6207943
+  :latitude: 41.2715616
+Africa/Freetown:
+  :country: Sierra Leone
+  :city: Freetown
+  :longitude: -13.22867
+  :latitude: 8.484145999999999
+Asia/Samarkand:
+  :country: Uzbekistan
+  :city: Samarkand
+  :longitude: 66.94760099999999
+  :latitude: 39.657581
+America/North_Dakota/Beulah:
+  :country: United States
+  :city: Beulah
+  :longitude: -101.7779462
+  :latitude: 47.2633403
+Africa/Banjul:
+  :country: The Gambia
+  :city: Banjul
+  :longitude: -16.5775
+  :latitude: 13.4530556
+America/Nome:
+  :country: United States
+  :city: Nome
+  :longitude: -165.4063889
+  :latitude: 64.5011111
+America/St_Vincent:
+  :country: United States
+  :city: St. Vincent
+  :longitude: -92.728219
+  :latitude: 35.3049996
+Africa/Ndjamena:
+  :country: Chad
+  :city: Ndjamena
+  :longitude: 15.044506
+  :latitude: 12.104797
+Africa/Kigali:
+  :country: Rwanda
+  :city: Kigali
+  :longitude: 30.058769
+  :latitude: -1.950106
+Pacific/Niue:
+  :country: Niue
+  :city: Niue
+  :longitude: -169.867233
+  :latitude: -19.054445
+America/Indiana/Vevay:
+  :country: United States
+  :city: Vevay
+  :longitude: -85.0671725
+  :latitude: 38.7478401
+Africa/Lubumbashi:
+  :country: Democratic Republic of the Congo
+  :city: Lubumbashi
+  :longitude: 27.479553
+  :latitude: -11.664677
+Pacific/Guadalcanal:
+  :country: Solomon Islands
+  :city: Guadalcanal
+  :longitude: 160.1455805
+  :latitude: -9.577328399999999
+Asia/Istanbul:
+  :country: Turkey
+  :city: Istanbul
+  :longitude: 28.97696
+  :latitude: 41.00527
+America/Kralendijk:
+  :country: Bonaire, Sint Eustatius and Saba
+  :city: Kralendijk
+  :longitude: -68.27669999999999
+  :latitude: 12.1507
+America/St_Kitts:
+  :country: Saint Kitts and Nevis
+  :city: St. Kitts
+  :longitude: -62.7559043
+  :latitude: 17.3433796
+Africa/Niamey:
+  :country: Niger
+  :city: Niamey
+  :longitude: 2.112516
+  :latitude: 13.512668
+Pacific/Norfolk:
+  :country: United States
+  :city: Norfolk
+  :longitude: -76.28587259999999
+  :latitude: 36.8507689
+America/Scoresbysund:
+  :country: Greenland
+  :city: Scoresbysund
+  :longitude: -21.9666667
+  :latitude: 70.48527779999999
+America/Nipigon:
+  :country: Canada
+  :city: Nipigon
+  :longitude: -88.268316
+  :latitude: 49.0157351
+Africa/El_Aaiun:
+  :country: 
+  :city: El Aaiun
+  :longitude: -13.2033333
+  :latitude: 27.1536111
+Asia/Thimphu:
+  :country: Bhutan
+  :city: Thimphu
+  :longitude: 89.667328
+  :latitude: 27.44261
+Africa/Lome:
+  :country: Togo
+  :city: Lome
+  :longitude: 1.2125
+  :latitude: 6.137777799999999
+Indian/Mayotte:
+  :country: Mayotte
+  :city: Mayotte
+  :longitude: 45.166244
+  :latitude: -12.8275
+America/Metlakatla:
+  :country: United States
+  :city: Metlakatla
+  :longitude: -131.5722222
+  :latitude: 55.1291667
+America/Iqaluit:
+  :country: Canada
+  :city: Iqaluit
+  :longitude: -68.5169669
+  :latitude: 63.74669300000001
+America/Dominica:
+  :country: Dominica
+  :city: Dominica
+  :longitude: -61.37097600000001
+  :latitude: 15.414999
+Mexico/BajaSur:
+  :country: Mexico
+  :city: BajaSur
+  :longitude: -111.6660725
+  :latitude: 26.0444446
+Pacific/Nauru:
+  :country: Nauru
+  :city: Nauru
+  :longitude: 166.931503
+  :latitude: -0.522778
+Europe/Mariehamn:
+  :country: Aland Islands
+  :city: Mariehamn
+  :longitude: 19.9348339
+  :latitude: 60.0970945
+America/Indiana/Marengo:
+  :country: United States
+  :city: Marengo
+  :longitude: -88.6084269
+  :latitude: 42.2486332
+Atlantic/Jan_Mayen:
+  :country: Svalbard and Jan Mayen
+  :city: Jan_Mayen
+  :longitude: -8.5223129
+  :latitude: 71.02135369999999
+Africa/Juba:
+  :country: South Sudan
+  :city: Juba
+  :longitude: 31.6
+  :latitude: 4.85
+Africa/Bangui:
+  :country: Central African Republic
+  :city: Bangui
+  :longitude: 18.555975
+  :latitude: 4.361698
+Arctic/Longyearbyen:
+  :country: Svalbard and Jan Mayen
+  :city: Longyearbyen
+  :longitude: 15.65
+  :latitude: 78.22
+Africa/Mbabane:
+  :country: Swaziland
+  :city: Mbabane
+  :longitude: 31.1333333
+  :latitude: -26.3166667
+Canada/Saskatchewan:
+  :country: Canada
+  :city: Saskatchewan
+  :longitude: -106.4508639
+  :latitude: 52.9399159
+America/Rankin_Inlet:
+  :country: Canada
+  :city: Rankin_Inlet
+  :longitude: -92.0852853
+  :latitude: 62.808375
+America/Inuvik:
+  :country: Canada
+  :city: Inuvik
+  :longitude: -133.7230177
+  :latitude: 68.3607437
+US/East-Indiana:
+  :country: United States
+  :city: East-Indiana
+  :longitude: -86.1349019
+  :latitude: 40.2671941
+US/Arizona:
+  :country: United States
+  :city: Arizona
+  :longitude: -111.0937311
+  :latitude: 34.0489281
+Canada/Atlantic:
+  :country: United States
+  :city: Atlantic
+  :longitude: -95.0138776
+  :latitude: 41.4036007
+Atlantic/Stanley:
+  :country: Hong Kong
+  :city: Stanley
+  :longitude: 114.2167592
+  :latitude: 22.2136725
+America/Rainy_River:
+  :country: Canada
+  :city: Rainy River
+  :longitude: -94.568208
+  :latitude: 48.721846
+America/Cambridge_Bay:
+  :country: Canada
+  :city: Cambridge Bay
+  :longitude: -105.0530556
+  :latitude: 69.1172222
+Europe/San_Marino:
+  :country: San Marino
+  :city: San Marino
+  :longitude: 12.457777
+  :latitude: 43.94236
+Asia/Pyongyang:
+  :country: North Korea
+  :city: Pyongyang
+  :longitude: 125.753765
+  :latitude: 39.031859
+US/Alaska:
+  :country: United States
+  :city: Alaska
+  :longitude: -149.4936733
+  :latitude: 64.2008413
+America/Eirunepe:
+  :country: Brazil
+  :city: Eirunepe
+  :longitude: -69.8667141
+  :latitude: -6.657140099999999
+Africa/Bujumbura:
+  :country: Burundi
+  :city: Bujumbura
+  :longitude: 29.359349
+  :latitude: -3.376217
+Indian/Chagos:
+  :country: British Indian Ocean Territory
+  :city: Chagos
+  :longitude: 72
+  :latitude: -6.000000000000001
+Chile/EasterIsland:
+  :country: Chile
+  :city: Easter Island
+  :longitude: -109.3664237
+  :latitude: -27.1211919
+America/Shiprock:
+  :country: United States
+  :city: Shiprock
+  :longitude: -108.8364343
+  :latitude: 36.6866691
+Africa/Bissau:
+  :country: Guinea-Bissau
+  :city: Bissau
+  :longitude: -15.6
+  :latitude: 11.8666667
+Pacific/Palau:
+  :country: Palau
+  :city: Palau
+  :longitude: 134.58252
+  :latitude: 7.514979999999999
+Pacific/Tarawa:
+  :country: Kiribati
+  :city: Tarawa
+  :longitude: 172.9790528
+  :latitude: 1.3290526
+Europe/Vatican:
+  :country: Vatican City
+  :city: Vatican
+  :longitude: 12.453389
+  :latitude: 41.902916
+Pacific/Ponape:
+  :country: Micronesia
+  :city: Ponape
+  :longitude: 158.2623822
+  :latitude: 6.8541254
+Pacific/Pohnpei:
+  :country: Micronesia
+  :city: Pohnpei
+  :longitude: 158.2623822
+  :latitude: 6.8541254
+Australia/Victoria:
+  :country: Australia
+  :city: Victoria
+  :longitude: 144.7851531
+  :latitude: -37.4713077
+Atlantic/St_Helena:
+  :country: United States
+  :city: St. Helena
+  :longitude: -122.4703868
+  :latitude: 38.5052429
+Asia/Hovd:
+  :country: Mongolia
+  :city: Hovd
+  :longitude: 91.6405556
+  :latitude: 48.0041667
+America/Montserrat:
+  :country: United States
+  :city: Montserrat
+  :longitude: -93.62188069999999
+  :latitude: 38.7747347
+Africa/Maseru:
+  :country: Lesotho
+  :city: Maseru
+  :longitude: 27.4916
+  :latitude: -29.308319
+Pacific/Wallis:
+  :country: United States
+  :city: Wallis
+  :longitude: -96.0652362
+  :latitude: 29.6313486
+Pacific/Chuuk:
+  :country: Micronesia
+  :city: Chuuk
+  :longitude: 151.5960034
+  :latitude: 7.355421999999999
+Indian/Comoro:
+  :country: Timor-Leste
+  :city: Comoro
+  :longitude: 125.524759
+  :latitude: -8.546661
+Canada/East-Saskatchewan:
+  :country: Canada
+  :city: East Saskatchewan
+  :longitude: -106.4508639
+  :latitude: 52.9399159
+America/Mendoza:
+  :country: Argentina
+  :city: Mendoza
+  :longitude: -68.8440498
+  :latitude: -32.890183
+America/Ensenada:
+  :country: Mexico
+  :city: Ensenada
+  :longitude: -116.606428
+  :latitude: 31.859577
+Africa/Sao_Tome:
+  :country: São Tomé and Príncipe
+  :city: Sao Tome
+  :longitude: 6.727799
+  :latitude: 0.336767
+Pacific/Marquesas:
+  :country: French Polynesia
+  :city: Marquesas
+  :longitude: -139.3888889
+  :latitude: -9.4544444
+Brazil/DeNoronha:
+  :country: Brazil
+  :city: DeNoronha
+  :longitude: -32.4297369
+  :latitude: -3.8576305
+America/Thule:
+  :country: Greenland
+  :city: Thule
+  :longitude: -69.345131
+  :latitude: 77.48262
+Pacific/Yap:
+  :country: Indonesia
+  :city: Yap
+  :longitude: 134.3851171
+  :latitude: -2.5501297
+Pacific/Pitcairn:
+  :country: Pitcairn Islands
+  :city: Pitcairn
+  :longitude: -128.3246469
+  :latitude: -24.3729738
+Indian/Kerguelen:
+  :country: 
+  :city: Kerguelen
+  :longitude: 69.35446259999999
+  :latitude: -49.3948275
+Canada/Newfoundland:
+  :country: Canada
+  :city: Newfoundland and Labrador
+  :longitude: -57.6604364
+  :latitude: 53.1355091
+Australia/Currie:
+  :country: United Kingdom
+  :city: Currie
+  :longitude: -3.311021
+  :latitude: 55.898864
+America/Yakutat:
+  :country: United States
+  :city: Yakutat
+  :longitude: -139.7272222
+  :latitude: 59.54694439999999
+Africa/Asmera:
+  :country: Eritrea
+  :city: Asmera
+  :longitude: 38.92617
+  :latitude: 15.33236
+Africa/Asmara:
+  :country: Eritrea
+  :city: Asmara
+  :longitude: 38.92617
+  :latitude: 15.33236
+Pacific/Fakaofo:
+  :country: Tokelau
+  :city: Fakaofo
+  :longitude: -171.2188355
+  :latitude: -9.380255499999999
+Asia/Dacca:
+  :country: Bangladesh
+  :city: Dacca
+  :longitude: 90.40714299999999
+  :latitude: 23.709921
+Antarctica/South_Pole:
+  :country: Antarctica
+  :city: South_Pole
+  :longitude: 0
+  :latitude: -90
+America/Coral_Harbour:
+  :country: Canada
+  :city: Coral_Harbour
+  :longitude: -83.16989699999999
+  :latitude: 64.138834
+Pacific/Wake:
+  :country: United States
+  :city: Wake
+  :longitude: -76.42911380000001
+  :latitude: 37.56819249999999
+Pacific/Kiritimati:
+  :country: Kiribati
+  :city: Kiritimati
+  :longitude: -157.4278119
+  :latitude: 1.8721347
+Pacific/Gambier:
+  :country: United States
+  :city: Gambier
+  :longitude: -82.3971038
+  :latitude: 40.3756194
+Indian/Cocos:
+  :country: Indonesia
+  :city: Cocos
+  :longitude: 95.3978818
+  :latitude: 2.9780661
+Australia/Yancowinna:
+  :country: Australia
+  :city: Yancowinna
+  :longitude: 141.8736307
+  :latitude: -31.7170754
+Antarctica/Rothera:
+  :country: Antarctica
+  :city: Rothera
+  :longitude: -68.1333333
+  :latitude: -67.5666667
+America/Pangnirtung:
+  :country: Canada
+  :city: Pangnirtung
+  :longitude: -65.7012182
+  :latitude: 66.1465578
